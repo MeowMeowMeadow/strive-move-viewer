@@ -4,7 +4,7 @@
         <h1>{{ name }}</h1>
         <img class="portrait" :src=img />
     </div>
-    <Move />
+    <Move :moves="moves" :commands="commands" :specials="specials" :overdrives="overdrives"/>
 </template>
 
 <script>
@@ -15,7 +15,11 @@ import Move from '../components/Move.vue'
             return {
                 uri: 'http://localhost:3000/characters/' + this.id,
                 name: '',
-                img: ''
+                img: '',
+                moves: [],
+                commands: [],
+                specials: [],
+                overdrives: []
 
             }
         },
@@ -26,7 +30,10 @@ import Move from '../components/Move.vue'
             .then(data => {
                 this.name = data.name
                 this.img = data.portraitImg
-
+                this.moves = data.moves
+                this.commands = data.commandMoves
+                this.specials = data.specials
+                this.overdrives = data.overdrives
             })
         },
         props: ['id'],
@@ -54,12 +61,13 @@ button {
     border-radius: 10px;
     display: block;
     margin: 10px auto;
-    background-color: rgb(196, 196, 196);
+    background-color: #59627c;
     font-weight: bold;
     font-size: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 button:hover {
-    background-color: rgb(238, 89, 89);
+    background-color: rgb(226, 226, 226);
 }
 </style>
