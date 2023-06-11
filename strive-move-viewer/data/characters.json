@@ -1,0 +1,148 @@
+{
+    "characters": [
+        {
+            "id": "Sol",
+            "name": "Sol Badguy",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/7/75/GGST_Sol_Badguy_Icon.png/85px-GGST_Sol_Badguy_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/0/04/GGST_Sol_Badguy_Portrait.png"
+        },
+        {
+            "id": "Ky",
+            "name": "Ky Kiske",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/d/d8/GGST_Ky_Kiske_Icon.png/85px-GGST_Ky_Kiske_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/2/21/GGST_Ky_Kiske_Portrait.png"
+        },
+        {
+            "id": "May",
+            "name": "May",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/5/51/GGST_May_Icon.png/85px-GGST_May_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/0/0d/GGST_May_Portrait.png"
+        },
+        {
+            "id": "Chipp",
+            "name": "Chipp Zanuff",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/9/94/GGST_Chipp_Zanuff_Icon.png/85px-GGST_Chipp_Zanuff_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/d/d3/GGST_Chipp_Zanuff_Portrait.png"
+        },
+        {
+            "id": "Millia",
+            "name": "Millia Rage",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/d/d8/GGST_Millia_Rage_Icon.png/85px-GGST_Millia_Rage_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/a/ab/GGST_Millia_Rage_Portrait.png"
+        },
+        {
+            "id": "Zato",
+            "name": "Zato-1",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/5/51/GGST_Zato-1_Icon.png/85px-GGST_Zato-1_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/d/df/GGST_Zato-1_Portrait.png"
+        },
+        {
+            "id": "Nago",
+            "name": "Nagoriuki",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/2/2c/GGST_Nagoriyuki_Icon.png/85px-GGST_Nagoriyuki_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/a/af/GGST_Nagoriyuki_Portrait.png"
+        },
+        {
+            "id": "Ino",
+            "name": "I-No",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/9/94/GGST_I-No_Icon.png/85px-GGST_I-No_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/a/a1/GGST_I-No_Portrait.png"
+        },
+        {
+            "id": "Jack-o",
+            "name": "Jack'O Valentine",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/6/65/GGST_Jack-O%27_Icon.png/85px-GGST_Jack-O%27_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/6/6f/GGST_Jack-O%27_Portrait.png"
+        },
+        {
+            "id": "HappyChaos",
+            "name": "Happy Chaos",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/7/78/GGST_Happy_Chaos_Icon.png/85px-GGST_Happy_Chaos_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/c/c4/GGST_Happy_Chaos_Portrait.png"
+        },
+        {
+            "id": "Testament",
+            "name": "Testament",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/3/32/GGST_Testament_Icon.png/85px-GGST_Testament_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/b/ba/GGST_Testament_Portrait.png"
+        },
+        {
+            "id": "bedman",
+            "name": "Bedman?",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/e/ec/GGST_Bedman_Icon.png/85px-GGST_Bedman_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/3/33/GGST_Bedman_Portrait.png"
+        },
+        {
+            "id": "Axl",
+            "name": "Axl Low",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/b/b6/GGST_Axl_Low_Icon.png/85px-GGST_Axl_Low_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/b/b7/GGST_Axl_Low_Portrait.png"
+        },
+        {
+            "id": "Potemkin",
+            "name": "Potemkin",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/f/f5/GGST_Potemkin_Icon.png/85px-GGST_Potemkin_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/e/ec/GGST_Potemkin_Portrait.png"
+        },
+        {
+            "id": "Faust",
+            "name": "Faust",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/f/f7/GGST_Faust_Icon.png/85px-GGST_Faust_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/f/ff/GGST_Faust_Portrait.png"
+        },
+        {
+            "id": "Ram",
+            "name": "Ramlethal Valentine",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/f/fb/GGST_Ramlethal_Valentine_Icon.png/85px-GGST_Ramlethal_Valentine_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/f/fa/GGST_Ramlethal_Valentine_Portrait.png"
+        },
+        {
+            "id": "Leo",
+            "name": "Leo Whitefang",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/6/64/GGST_Leo_Whitefang_Icon.png/85px-GGST_Leo_Whitefang_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/f/f7/GGST_Leo_Whitefang_Portrait.png"
+        },
+        {
+            "id": "Gio",
+            "name": "Giovanna",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/4/41/GGST_Giovanna_Icon.png/85px-GGST_Giovanna_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/3/3f/GGST_Giovanna_Portrait.png"
+        },
+        {
+            "id": "Anji",
+            "name": "Anjo Mito",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/b/b2/GGST_Anji_Mito_Icon.png/85px-GGST_Anji_Mito_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/5/5c/GGST_Anji_Mito_Portrait.png"
+        },
+        {
+            "id": "Goldlewis",
+            "name": "Goldlewis Dickinson",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/e/e1/GGST_Goldlewis_Dickinson_Icon.png/85px-GGST_Goldlewis_Dickinson_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/7/7c/GGST_Goldlewis_Dickinson_Portrait.png"
+        },
+        {
+            "id": "Baiken",
+            "name": "Baiken",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/1/1c/GGST_Baiken_Icon.png/85px-GGST_Baiken_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/6/6e/GGST_Baiken_Portrait.png"
+        },
+        {
+            "id": "Brisket",
+            "name": "Bridget",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/b/b5/GGST_Bridget_Icon.png/85px-GGST_Bridget_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/8/83/GGST_Bridget_Portrait.png"
+        },
+        {
+            "id": "Sin",
+            "name": "Sin Kiske",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/a/ac/GGST_Sin_Kiske_Icon.png/85px-GGST_Sin_Kiske_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/8/8a/GGST_Sin_Kiske_Portrait.png"
+        },
+        {
+            "id": "AsukaR",
+            "name": "Asuka R# (R. Kreutz)",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/4/47/GGST_Asuka_R_Icon.png/85px-GGST_Asuka_R_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/f/f7/GGST_Asuka_R_Portrait.png"
+        }
+    ]
+}
