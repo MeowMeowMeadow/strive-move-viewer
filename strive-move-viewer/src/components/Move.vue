@@ -6,8 +6,8 @@
         <button :class="{active: showOverdrives}" @click="toggleOverdrives">Overdrives</button>
     </div>
     <div v-if="showNormals" class="Normals">
-        <div v-for="normal in moves">
-            <button>{{ normal.name }}</button>
+        <div v-for="normal in moves" :key="normal.name">
+            <button @click="this.$emit('update',normal.moveImg)">{{ normal.name }}</button>
         </div>
     </div>
     <div v-if="showCommand" class="CommandNormals">
@@ -35,25 +35,38 @@
                 showNormals: false,
                 showCommand: false,
                 showSpecials: false,
-                showOverdrives: false
+                showOverdrives: false,
+                image: ''
             }
         },
         methods:
         {
             toggleNormals() {
                 this.showNormals = !this.showNormals
+                this.showCommand = false
+                this.showSpecials = false
+                this.showOverdrives = false
             },
             toggleCommand() {
                 this.showCommand = !this.showCommand
+                this.showNormals = false
+                this.showSpecials = false
+                this.showOverdrives = false
             },
             toggleSpecials() {
                 this.showSpecials = !this.showSpecials
+                this.showNormals = false
+                this.showOverdrives = false
+                this.showCommand = false
             },
             toggleOverdrives() {
                 this.showOverdrives = !this.showOverdrives
+                this.showNormals = false
+                this.showSpecials = false
+                this.showCommand = false
             }
         },
-        props: ['moves', 'commands', 'specials', 'overdrives']
+        props: ['moves', 'commands', 'specials', 'overdrives', 'uri']
     }
 </script>
 
@@ -67,10 +80,11 @@
 .Normals, .CommandNormals, .Specials, .Overdrives {
     display: flex;
     align-items: center;
-    justify-items: center;
+    justify-items: flex-start;
+    justify-content: center;
     margin: 0 auto;
     gap: 1rem;
-    width: 30%;
+    width: 50%;
     flex-wrap: wrap;
 }
 

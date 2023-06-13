@@ -1,10 +1,13 @@
 <template>
 <button @click="goBack">Return Home</button>
-    <div v-if="img">
+    <div>
         <h1>{{ name }}</h1>
         <img class="portrait" :src=img />
     </div>
-    <Move :moves="moves" :commands="commands" :specials="specials" :overdrives="overdrives"/>
+    <Move
+     :moves="moves" :commands="commands" :specials="specials" :overdrives="overdrives" :uri="uri"
+     @update="handleUpdate"
+     />
 </template>
 
 <script>
@@ -42,7 +45,11 @@ import Move from '../components/Move.vue'
             goBack()
             {
                 this.$router.push('/')
+            },
+            handleUpdate(move) {
+                this.img = move
             }
+            
         },
         components: {Move}
     }

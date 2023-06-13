@@ -9,11 +9,80 @@
                 {
                     "name": "5P",
                     "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "5K",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "Close S",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "Far S",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "5H",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "5D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "2P",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "2K",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "2S",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "2H",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "2D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "Jump P",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "Jump K",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "Jump S",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "Jump H",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                },
+                {
+                    "name": "Jump D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
                 }
+                
             ],
             "commandMoves": [
                 {
                     "name": "6P",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/2/25/GGST_Sol_Badguy_6P.png/547px-GGST_Sol_Badguy_6P.png"
+                },
+                {
+                    "name": "6S",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/2/25/GGST_Sol_Badguy_6P.png/547px-GGST_Sol_Badguy_6P.png"
+                },
+                {
+                    "name": "6H",
                     "moveImg": "https://www.dustloop.com/wiki/images/thumb/2/25/GGST_Sol_Badguy_6P.png/547px-GGST_Sol_Badguy_6P.png"
                 }
             ],
@@ -21,7 +90,36 @@
                 {  
                     "name": "Gun Flame",
                     "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
+                },
+                {  
+                    "name": "Gun Flame (Feint)",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
+                },
+                {  
+                    "name": "Volcanic Viper",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
+                },
+                {  
+                    "name": "Bandit Revolver",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
+                },
+                {  
+                    "name": "Bandit Bringer",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
+                },
+                {  
+                    "name": "Wild Throw",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
+                },
+                {  
+                    "name": "Night Raid Vortex",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
+                },
+                {  
+                    "name": "Fafnir",
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
                 }
+
             ],
             "overdrives": [
                 {
