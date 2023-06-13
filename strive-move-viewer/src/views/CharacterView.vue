@@ -1,8 +1,11 @@
 <template>
 <button @click="goBack">Return Home</button>
-    <div>
+    <div v-if="img">
         <h1>{{ name }}</h1>
         <img class="portrait" :src=img />
+    </div>
+    <div v-else>
+        <h1>Loading...</h1>
     </div>
     <Move
      :moves="moves" :commands="commands" :specials="specials" :overdrives="overdrives" :uri="uri"
