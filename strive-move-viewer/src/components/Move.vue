@@ -12,17 +12,17 @@
     </div>
     <div v-if="showCommand" class="CommandNormals">
         <div v-for="command in commands">
-            <button>{{ command.name }}</button>
+            <button @click="this.$emit('update',command.moveImg)">{{ command.name }}</button>
         </div>
     </div>
     <div v-if="showSpecials" class="Specials">
         <div v-for="special in specials">
-            <button>{{ special.name }}</button>
+            <button  @click="this.$emit('update',special.moveImg)">{{ special.name }}</button>
         </div>
     </div>
     <div v-if="showOverdrives" class="Overdrives">
         <div v-for="overdrive in overdrives">
-            <button>{{ overdrive.name }}</button>
+            <button  @click="this.$emit('update',overdrive.moveImg)">{{ overdrive.name }}</button>
         </div>
     </div>
 </template>

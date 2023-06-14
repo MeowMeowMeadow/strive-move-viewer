@@ -25,7 +25,8 @@ import Move from '../components/Move.vue'
                 moves: [],
                 commands: [],
                 specials: [],
-                overdrives: []
+                overdrives: [],
+                moveEnabled: false
 
             }
         },
@@ -51,6 +52,7 @@ import Move from '../components/Move.vue'
             },
             handleUpdate(move) {
                 this.img = move
+                this.moveEnabled = true
             }
             
         },
@@ -60,8 +62,8 @@ import Move from '../components/Move.vue'
 
 <style>
 .portrait {
-    height: 500px;
-    width: 400px;
+    height: 25%;
+    width: 25%;
 }
 
 button {
