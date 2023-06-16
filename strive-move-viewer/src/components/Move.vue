@@ -1,4 +1,12 @@
 <template>
+
+    <input type="checkbox"
+     v-model="toggleNumNotation"
+     true-value="yes"
+     false-value="no"
+      />
+    <label for="checkbox">Numbered Notation</label>
+
     <div class="MoveButtons">
         <button :class="{active: showNormals}" @click="toggleNormals">Normals</button>
         <button :class="{active: showCommand}" @click="toggleCommand">Command Normals</button>
