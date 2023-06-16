@@ -62,8 +62,16 @@ import Move from '../components/Move.vue'
 
 <style>
 .portrait {
-    height: 25%;
-    width: 25%;
+    height: 50%;
+    width: 50%;
+    max-width: 350px;
+    max-height: 500px;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 5px 7.5px rgba(0, 0, 0, 0.26);
+    background-color: rgba(89, 98, 124, 0.411);
 }
 
 button {
