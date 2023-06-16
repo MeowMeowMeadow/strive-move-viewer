@@ -1,11 +1,9 @@
-<template>
+<template> 
 
-    <input type="checkbox"
-     v-model="toggleNumNotation"
-     true-value="yes"
-     false-value="no"
-      />
-    <label for="checkbox">Numbered Notation</label>
+    <div>
+        <button :class="{active: isNum}" @click="isNum = !isNum">Numbered Notations</button>
+        <button :class="{active: isHitbox}" >Hitboxes</button>
+    </div>
 
     <div class="MoveButtons">
         <button :class="{active: showNormals}" @click="toggleNormals">Normals</button>
@@ -25,12 +23,18 @@
     </div>
     <div v-if="showSpecials" class="Specials">
         <div v-for="special in specials">
-            <button  @click="this.$emit('update',special.moveImg)">{{ special.name }}</button>
+            <button  @click="this.$emit('update',special.moveImg)">
+                <span v-if="isNum">{{ special.numName }}</span>
+                <span v-else>{{ special.name }}</span>
+            </button>
         </div>
     </div>
     <div v-if="showOverdrives" class="Overdrives">
         <div v-for="overdrive in overdrives">
-            <button  @click="this.$emit('update',overdrive.moveImg)">{{ overdrive.name }}</button>
+            <button  @click="this.$emit('update',overdrive.moveImg)">
+                <span v-if="isNum">{{ overdrive.numName }}</span>
+                <span v-else>{{ overdrive.name }}</span>
+            </button>
         </div>
     </div>
 </template>
@@ -44,6 +48,7 @@
                 showCommand: false,
                 showSpecials: false,
                 showOverdrives: false,
+                isNum: false,
                 image: ''
             }
         },

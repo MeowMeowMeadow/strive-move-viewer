@@ -89,34 +89,42 @@
             "specials": [
                 {  
                     "name": "Gun Flame",
+                    "numName": "236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
                 },
                 {  
                     "name": "Gun Flame (Feint)",
+                    "numName": "214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/dd/GGST_Sol_Badguy_214P.png"
                 },
                 {  
                     "name": "Volcanic Viper",
+                    "numName": "623S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/20/GGST_Sol_Badguy_623X.png"
                 },
                 {  
                     "name": "Bandit Revolver",
+                    "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/13/GGST_Sol_Badguy_236K.png"
                 },
                 {  
                     "name": "Bandit Bringer",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/bd/GGST_Sol_Badguy_214K.png"
                 },
                 {  
                     "name": "Wild Throw",
+                    "numName": "623K",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e3/GGST_Sol_Badguy_623K_2.png"
                 },
                 {  
                     "name": "Night Raid Vortex",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/62/GGST_Sol_Badguy_214S_2.png"
                 },
                 {  
                     "name": "Fafnir",
+                    "numName": "41236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/2c/GGST_Sol_Badguy_41236H.png"
                 }
 
@@ -124,10 +132,12 @@
             "overdrives": [
                 {
                     "name": "Tyrant Rave",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/thumb/0/00/GGST_Sol_Badguy_632146H_2.png/800px-GGST_Sol_Badguy_632146H_2.png"
                 },
                 {
                     "name": "Heavy Mob Cemetary",
+                    "numName": "214214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/thumb/f/f0/GGST_Sol_Badguy_214214H.png/800px-GGST_Sol_Badguy_214214H.png"
                 }
             ]
