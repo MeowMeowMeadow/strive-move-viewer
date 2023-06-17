@@ -2,18 +2,20 @@
 
     <div>
         <button :class="{active: isNum}" @click="isNum = !isNum">Numbered Notations</button>
-        <button :class="{active: isHitbox}" >Hitboxes</button>
+        <button :class="{active: isHitbox}" @click="isHitbox = !isHitbox">Hitboxes</button>
     </div>
 
     <div class="MoveButtons">
         <button :class="{active: showNormals}" @click="toggleNormals">Normals</button>
         <button :class="{active: showCommand}" @click="toggleCommand">Command Normals</button>
         <button :class="{active: showSpecials}" @click="toggleSpecials">Specials</button>
+        <button v-if="isSpells" :class="{active: showSpells}" @click="toggleSpells">Spells</button>
         <button :class="{active: showOverdrives}" @click="toggleOverdrives">Overdrives</button>
     </div>
     <div v-if="showNormals" class="Normals">
-        <div v-for="normal in moves" :key="normal.name">
-            <button @click="this.$emit('update',normal.moveImg)">{{ normal.name }}</button>
+        <div v-for="normal in moves">
+            <button v-if="isHitbox" @click="this.$emit('update',normal.hitboxImg)">{{ normal.name }}</button>
+            <button v-else @click="this.$emit('update',normal.moveImg)">{{ normal.name }}</button>
         </div>
     </div>
     <div v-if="showCommand" class="CommandNormals">
@@ -27,6 +29,11 @@
                 <span v-if="isNum">{{ special.numName }}</span>
                 <span v-else>{{ special.name }}</span>
             </button>
+        </div>
+    </div>
+    <div v-if="showSpells" class="Spells">
+        <div v-for="spell in spells">
+            <button @click="this.$emit('update',spell.moveImg)">{{ spell.name }}</button>
         </div>
     </div>
     <div v-if="showOverdrives" class="Overdrives">
@@ -48,8 +55,9 @@
                 showCommand: false,
                 showSpecials: false,
                 showOverdrives: false,
+                showSpells: false,
                 isNum: false,
-                image: ''
+                isHitbox: false
             }
         },
         methods:
@@ -59,27 +67,38 @@
                 this.showCommand = false
                 this.showSpecials = false
                 this.showOverdrives = false
+                this.showSpells = false
             },
             toggleCommand() {
                 this.showCommand = !this.showCommand
                 this.showNormals = false
                 this.showSpecials = false
                 this.showOverdrives = false
+                this.showSpells = false
             },
             toggleSpecials() {
                 this.showSpecials = !this.showSpecials
                 this.showNormals = false
                 this.showOverdrives = false
                 this.showCommand = false
+                this.showSpells = false
             },
             toggleOverdrives() {
                 this.showOverdrives = !this.showOverdrives
                 this.showNormals = false
                 this.showSpecials = false
                 this.showCommand = false
+                this.showSpells = false
+            },
+            toggleSpells() {
+                this.showSpells = !this.showSpells
+                this.showNormals = false
+                this.showSpecials = false
+                this.showCommand = false
+                this.showOverdrives = false
             }
         },
-        props: ['moves', 'commands', 'specials', 'overdrives', 'uri']
+        props: ['moves', 'commands', 'specials', 'overdrives', 'uri', 'spells', 'isSpells']
     }
 </script>
 
@@ -87,7 +106,7 @@
 .MoveButtons {
     display: flex;
     align-items: center;
-    width: 25%;
+    width: 30%;
     margin: 0 auto;
 }
 .Normals, .CommandNormals, .Specials, .Overdrives {
@@ -98,6 +117,17 @@
     margin: 0 auto;
     gap: 1rem;
     width: 50%;
+    flex-wrap: wrap;
+}
+
+.Spells {
+    width: 95% !important;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-items: flex-start;
+    justify-content: center;
+    gap: 1rem;
     flex-wrap: wrap;
 }
 

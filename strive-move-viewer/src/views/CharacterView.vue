@@ -1,5 +1,6 @@
 <template>
 <button @click="goBack">Return Home</button>
+<div class="content">
     <div v-if="img">
         <h1>{{ name }}</h1>
         <img class="portrait" :src=img />
@@ -7,8 +8,16 @@
     <div v-else>
         <h1>Loading...</h1>
     </div>
+    <div class="moveInfo">
+        <h3>Move Information</h3>
+        <p>Start Up: {{ startUp }}</p>
+        <p>Move Type: {{ moveType }}</p>
+        <p>On Block: {{ onBlock }}</p>
+    </div>
+</div>
+    
     <Move
-     :moves="moves" :commands="commands" :specials="specials" :overdrives="overdrives" :uri="uri"
+     :moves="moves" :commands="commands" :specials="specials" :overdrives="overdrives" :uri="uri" :spells="spells" :isSpells="isSpells"
      @update="handleUpdate"
      />
 </template>
@@ -26,7 +35,12 @@ import Move from '../components/Move.vue'
                 commands: [],
                 specials: [],
                 overdrives: [],
-                moveEnabled: false
+                spells: [],
+                moveEnabled: false,
+                isSpells: false,
+                startUp: "N/A",
+                moveType: "N/A",
+                onBlock: "N/A"
 
             }
         },
@@ -41,6 +55,11 @@ import Move from '../components/Move.vue'
                 this.commands = data.commandMoves
                 this.specials = data.specials
                 this.overdrives = data.overdrives
+                if(data.isSpells)
+                {
+                    this.isSpells = data.isSpells
+                    this.spells = data.spells
+                }
             })
         },
         props: ['id'],
@@ -61,6 +80,20 @@ import Move from '../components/Move.vue'
 </script>
 
 <style>
+.content {
+    display: block;
+}
+
+.moveInfo {
+    position: absolute;
+    padding: 20px;
+    margin-bottom: 15px;
+    width: 500px;
+    height: 100px;
+    top: 100px;
+    right: 350px;
+}
+
 .portrait {
     height: 50%;
     width: 50%;
@@ -72,6 +105,14 @@ import Move from '../components/Move.vue'
     border: 1px solid black;
     box-shadow: 5px 7.5px rgba(0, 0, 0, 0.26);
     background-color: rgba(89, 98, 124, 0.411);
+}
+
+.plus {
+    color: rgb(71, 252, 71);
+}
+
+.negative {
+    color: rgb(255, 82, 82);
 }
 
 button {

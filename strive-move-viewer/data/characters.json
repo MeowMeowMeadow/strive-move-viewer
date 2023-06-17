@@ -5,70 +5,87 @@
             "name": "Sol Badguy",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/7/75/GGST_Sol_Badguy_Icon.png/85px-GGST_Sol_Badguy_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/0/04/GGST_Sol_Badguy_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
-                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/d/d7/GGST_Sol_Badguy_5P.png/549px-GGST_Sol_Badguy_5P.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/7/76/GGST_Sol_5P_Hitbox.png"
                 },
                 {
                     "name": "5K",
-                    "moveImg": "https://www.dustloop.com/wiki/images/c/c9/GGST_Sol_Badguy_5K.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/c/c9/GGST_Sol_Badguy_5K.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/f/fc/GGST_Sol_5K_Hitbox.png"
                 },
                 {
                     "name": "Close S",
-                    "moveImg": "https://www.dustloop.com/wiki/images/1/1b/GGST_Sol_Badguy_cS.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/1b/GGST_Sol_Badguy_cS.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/8/81/GGST_Sol_cS_Hitbox.png"
                 },
                 {
                     "name": "Far S",
-                    "moveImg": "https://www.dustloop.com/wiki/images/6/60/GGST_Sol_Badguy_fS.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/6/60/GGST_Sol_Badguy_fS.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/9/9e/GGST_Sol_fS_Hitbox.png"
                 },
                 {
                     "name": "5H",
-                    "moveImg": "https://www.dustloop.com/wiki/images/f/f1/GGST_Sol_Badguy_5H.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/f/f1/GGST_Sol_Badguy_5H.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/0/01/GGST_Sol_5H_Hitbox.png"
                 },
                 {
                     "name": "5D",
-                    "moveImg": "https://www.dustloop.com/wiki/images/b/be/GGST_Sol_Badguy_5D.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/b/be/GGST_Sol_Badguy_5D.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/2/21/GGST_Sol_5D_Hitbox.png"
                 },
                 {
                     "name": "2P",
-                    "moveImg": "https://www.dustloop.com/wiki/images/4/45/GGST_Sol_Badguy_2P.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/45/GGST_Sol_Badguy_2P.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/b/ba/GGST_Sol_2P_Hitbox.png"
                 },
                 {
                     "name": "2K",
-                    "moveImg": "https://www.dustloop.com/wiki/images/7/76/GGST_Sol_Badguy_2K.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/7/76/GGST_Sol_Badguy_2K.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/e/ea/GGST_Sol_2K_Hitbox.png"
                 },
                 {
                     "name": "2S",
-                    "moveImg": "https://www.dustloop.com/wiki/images/9/9b/GGST_Sol_Badguy_2S.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/9/9b/GGST_Sol_Badguy_2S.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/4/4a/GGST_Sol_2S_2_Hitbox.png"
                 },
                 {
                     "name": "2H",
-                    "moveImg": "https://www.dustloop.com/wiki/images/9/94/GGST_Sol_Badguy_2H.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/9/94/GGST_Sol_Badguy_2H.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/9/92/GGST_Sol_2H_3_Hitbox.png"
                 },
                 {
                     "name": "2D",
-                    "moveImg": "https://www.dustloop.com/wiki/images/0/0a/GGST_Sol_Badguy_2D.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/0/0a/GGST_Sol_Badguy_2D.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/3/35/GGST_Sol_2D_Hitbox.png"
                 },
                 {
                     "name": "J.P",
-                    "moveImg": "https://www.dustloop.com/wiki/images/a/a7/GGST_Sol_Badguy_jP.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/a/a7/GGST_Sol_Badguy_jP.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/7/74/GGST_Sol_jP_Hitbox.png"
                 },
                 {
                     "name": "J.K",
-                    "moveImg": "https://www.dustloop.com/wiki/images/5/5f/GGST_Sol_Badguy_jK.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/5/5f/GGST_Sol_Badguy_jK.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/b/b7/GGST_Sol_jK_Hitbox.png"
                 },
                 {
                     "name": "J.S",
-                    "moveImg": "https://www.dustloop.com/wiki/images/c/c1/GGST_Sol_Badguy_jS.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/c/c1/GGST_Sol_Badguy_jS.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/8/8a/GGST_Sol_jS_Hitbox.png"
                 },
                 {
                     "name": "J.H",
-                    "moveImg": "https://www.dustloop.com/wiki/images/5/5a/GGST_Sol_Badguy_jH.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/5/5a/GGST_Sol_Badguy_jH.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/c/c1/GGST_Sol_jH_3_Hitbox.png"
                 },
                 {
                     "name": "J.D",
-                    "moveImg": "https://www.dustloop.com/wiki/images/4/43/GGST_Sol_Badguy_jD.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/43/GGST_Sol_Badguy_jD.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/0/07/GGST_Sol_jD_Hitbox.png"
                 }
                 
             ],
@@ -147,6 +164,7 @@
             "name": "Ky Kiske",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/d/d8/GGST_Ky_Kiske_Icon.png/85px-GGST_Ky_Kiske_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/2/21/GGST_Ky_Kiske_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -231,44 +249,59 @@
             "specials": [
                 {  
                     "name": "Stun Edge",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e6/GGST_Ky_Kiske_236S.png"
                 },
                 {  
+                    "name": "Aerial Stun Edge",
+                    "numName": "J.236S/H",
+                    "moveImg": "https://www.dustloop.com/wiki/images/a/a5/GGST_Ky_Kiske_j236X.png"
+                },
+                {  
                     "name": "Stun Dipper",
+                    "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/43/GGST_Ky_Kiske_236K_2.png"
                 },
                 {  
                     "name": "Vapour Thrust (S Version)",
+                    "numName": "623S",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/0e/GGST_Ky_Kiske_623S.png"
                 },
                 {  
                     "name": "Vapour Thrust (H Version)",
+                    "numName": "623H",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/73/GGST_Ky_Kiske_623H.png"
                 },
                 {  
                     "name": "Charged Stun Edge",
+                    "numName": "236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/f6/GGST_Ky_Kiske_236H.png"
                 },
                 {  
                     "name": "Dire Eclat",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/ef/GGST_Ky_Kiske_214S.png"
                 },
                 {  
                     "name": "Foudre Arc",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/66/GGST_Ky_Kiske_214K.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Ride The Lightning",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/79/GGST_Ky_Kiske_632146H.png"
                 },
                 {
                     "name": "Sacred Edge",
+                    "numName": "236236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b1/GGST_Ky_Kiske_236236P.png"
                 },
                 {
                     "name": "Dragon Install",
+                    "numName": "214214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/83/GGST_Ky_Kiske_214214H_3.png"
                 }
             ]
@@ -278,6 +311,7 @@
             "name": "May",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/5/51/GGST_May_Icon.png/85px-GGST_May_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/0/0d/GGST_May_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -370,18 +404,22 @@
             "specials": [
                 {  
                     "name": "Arisugawa Sparkle",
+                    "numName": "214P/K",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/80/GGST_May_Arisugawa_Sparkle.png"
                 },
                 {  
                     "name": "Mr Dolphin (Horizontal)",
+                    "numName": "[4]6S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/29/GGST_May_Mr._Dolphin_Horizontal.png"
                 },
                 {  
                     "name": "Mr Dolphin (Vertical)",
+                    "numName": "[2]8S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/ff/GGST_May_Mr._Dolphin_Vertical.png"
                 },
                 {  
                     "name": "Overhead Kiss",
+                    "numName": "623K",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b0/GGST_May_Overhead_Kiss_1.png"
                 }
 
@@ -389,10 +427,12 @@
             "overdrives": [
                 {
                     "name": "The Wonderful and Dynamic Goshogawara",
+                    "numName": "236236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/7e/GGST_May_The_Wonderful_and_Dynamic_Goshogawara.png"
                 },
                 {
                     "name": "Great Yamada Attack",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/8f/GGST_May_Great_Yamada_Attack.png"
                 }
             ]
@@ -402,6 +442,7 @@
             "name": "Chipp Zanuff",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/9/94/GGST_Chipp_Zanuff_Icon.png/85px-GGST_Chipp_Zanuff_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/d/d3/GGST_Chipp_Zanuff_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -489,53 +530,70 @@
             "specials": [
                 {  
                     "name": "Resshou",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/ca/GGST_Chipp_Zanuff_Resshou.png"
                 },
                 {  
                     "name": "Rokusai",
+                    "numName": "236S > 236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d0/GGST_Chipp_Zanuff_Rokusai.png"
                 },
                 {  
                     "name": "Senshuu",
+                    "numName": "236S > 236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/43/GGST_Chipp_Zanuff_Senshuu.png"
                 },
                 {  
                     "name": "Alpha Blade (Horizontal Grounded)",
+                    "numName": "236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/8b/GGST_Chipp_Zanuff_Alpha_Blade_Horizontal_Ground.png"
                 },
                 {  
                     "name": "Alpha Blade (Diagonal Grounded)",
+                    "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/80/GGST_Chipp_Zanuff_Alpha_Blade_Diagonal_Ground.png"
                 },
                 {  
                     "name": "Alpha Blade (Diagonal Aerial)",
+                    "numName": "J.236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b7/GGST_Chipp_Zanuff_Alpha_Blade_Diagonal_Air.png"
                 },
                 {  
                     "name": "Alpha Blade (Horizontal Aerial)",
+                    "numName": "J.236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/cc/GGST_Chipp_Zanuff_Alpha_Blade_Horizontal_Air.png"
                 },
                 {
-                    "name": "Genrouzan",
+                    "name": "Genrou Zan",
+                    "numName": "63214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/44/GGST_Chipp_Zanuff_63214S.png"
                 },
                 {  
                     "name": "Gamma Blade",
+                    "numName": "236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/35/GGST_Chipp_Zanuff_Gamma_Blade.png"
                 },
                 {  
                     "name": "Beta Blade",
+                    "numName": "623S",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/95/GGST_Chipp_Zanuff_Beta_Blade.png"
+                },
+                {  
+                    "name": "Shurkien",
+                    "numName": "J.214P",
+                    "moveImg": "https://www.dustloop.com/wiki/images/2/26/GGST_Chipp_Zanuff_Shuriken.png"
                 }
 
             ],
             "overdrives": [
                 {
                     "name": "Zansei Rouga",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/f2/GGST_Chipp_Zanuff_Zansei_Rouga_2.png"
                 },
                 {
                     "name": "Banki Messai",
+                    "numName": "236236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/35/GGST_Chipp_Zanuff_Banki_Messai_2.png"
                 }
             ]
@@ -546,6 +604,7 @@
             "name": "Millia Rage",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/d/d8/GGST_Millia_Rage_Icon.png/85px-GGST_Millia_Rage_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/a/ab/GGST_Millia_Rage_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -630,40 +689,49 @@
             "specials": [
                 {  
                     "name": "Tandem Top",
+                    "numName": "236S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/2e/GGST_Millia_Rage_Tandem_Top_Full.png"
                 },
                 {  
                     "name": "Turbo Fall",
+                    "numName": "J.236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/a8/GGST_Millia_Rage_Turbo_Fall.png"
                 },
                 {  
                     "name": "Mirazh",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/ba/GGST_Millia_Rage_Mirazh.png"
                 },
                 {  
                     "name": "Lust Shaker",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/72/GGST_Millia_Rage_Lust_Shaker.png"
                 },
                 {  
                     "name": "Kapel",
+                    "numName": "J.236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/70/GGST_Millia_Rage_Kapel.png"
                 },
                 {  
                     "name": "Iron Saviour",
+                    "numName": "214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/82/GGST_Millia_Rage_Iron_Savior.png"
                 },
                 {  
                     "name": "Bad Moon",
+                    "numName": "J.236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b4/GGST_Millia_Rage_Bad_Moon.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Septem Voices",
+                    "numName": "236236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/c7/GGST_Millia_Rage_Septem_Voices.png"
                 },
                 {
                     "name": "Winger",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/96/GGST_Millia_Rage_632146H_Full.png"
                 }
             ]
@@ -673,6 +741,7 @@
             "name": "Zato-1",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/5/51/GGST_Zato-1_Icon.png/85px-GGST_Zato-1_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/d/df/GGST_Zato-1_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -757,48 +826,59 @@
             "specials": [
                 {  
                     "name": "Summon Eddie",
+                    "numName": "214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/bd/GGST_Zato-1_Summon_Eddie.png"
                 },
                 {  
                     "name": "Invite Hell",
+                    "numName": "22H",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/f9/GGST_Zato-1_Invite_Hell_1.png"
                 },
                 {  
                     "name": "Leap",
+                    "numName": "236S / ]S[",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/98/GGST_Zato-1_Leap.png"
                 },
                 {  
                     "name": "Pierce",
+                    "numName": "236P / ]P[",
                     "moveImg": "https://www.dustloop.com/wiki/images/5/59/GGST_Zato-1_Pierce.png"
                 },
                 {  
                     "name": "Drunkard Shade",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/80/GGST_Zato-1_Drunkard_Shade.png"
                 },
                 {  
                     "name": "Oppose",
+                    "numName": "236H / ]H[",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3b/GGST_Zato-1_Oppose_Armor.png"
                 },
                 {  
                     "name": "That's a lot",
+                    "numName": "236K / ]K[",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/af/GGST_Zato-1_That%27s_a_lot.png"
                 },
                 {  
                     "name": "Damned Fang",
+                    "numName": "623S",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/68/GGST_Zato-1_Damned_Fang.png"
                 },
                 {  
                     "name": "Break The Law",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/aa/GGST_Zato-1_Break_The_Law.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Amorphous",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/62/GGST_Zato-1_Amorphous.png"
                 },
                 {
                     "name": "Sun Void",
+                    "numName": "632146S",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/bc/GGST_Zato-1_Sun_Void.png"
                 }
             ]
@@ -808,6 +888,7 @@
             "name": "Nagoriuki",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/2/2c/GGST_Nagoriyuki_Icon.png/85px-GGST_Nagoriyuki_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/a/af/GGST_Nagoriyuki_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -900,36 +981,44 @@
             "specials": [
                 {  
                     "name": "Blood Rage",
+                    "numName": "Blood Rage",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d6/GGST_Nagoriyuki_Activation.png"
                 },
                 {  
                     "name": "Bloodsucking Universe",
+                    "numName": "623P",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/ba/GGST_Nagoriyuki_Bloodsucking_Universe.png"
                 },
                 {  
                     "name": "Fukyo",
+                    "numName": "236K/214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/7b/GGST_Nagoriyuki_Fukyo.png"
                 },
                 {  
                     "name": "Kamuriyuki",
+                    "numName": "214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3d/GGST_Nagoriyuki_Kamuriyuki1.png"
                 },
                 {  
                     "name": "Shizuriyuki",
+                    "numName": "623H",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/81/GGST_Nagoriyuki_Shizuriyuki1.png"
                 },
                 {  
                     "name": "Zarameyuki",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/97/GGST_Nagoriyuki_Zarameyuki1.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Wasureyuki",
+                    "numName": "632146S",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/95/GGST_Nagoriyuki_Wasureyuki1.png"
                 },
                 {
                     "name": "Zansetsu",
+                    "numName": "632146H while Blood Rage",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/35/GGST_Nagoriyuki_Zansetsu.png"
                 }
             ]
@@ -939,6 +1028,7 @@
             "name": "I-No",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/9/94/GGST_I-No_Icon.png/85px-GGST_I-No_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/a/a1/GGST_I-No_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -1019,36 +1109,44 @@
             "specials": [
                 {  
                     "name": "Antidepressant Scale",
+                    "numName": "214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/df/GGST_I-No_Antidepressant_Scale.png"
                 },
                 {  
                     "name": "Chemical Love",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d5/GGST_I-No_Chemical_Love.png"
                 },
                 {  
                     "name": "Stroke The Big Tree",
+                    "numName": "236S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/73/GGST_I-No_Stroke_the_Big_Tree.png"
                 },
                 {  
                     "name": "Sultry Performance (K Version)",
+                    "numName": "J.236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/f3/GGST_I-No_Sultry_Performance_1.png"
                 },
                 {  
                     "name": "Sultry Performance (S Version)",
+                    "numName": "J.236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/8b/GGST_I-No_Sultry_Performance_2.png"
                 },
                 {  
                     "name": "Sultry Performance (H Version)",
+                    "numName": "J.236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/f9/GGST_I-No_Sultry_Performance_3.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Megalomania",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/ab/GGST_I-No_Megalomania_2.png"
                 },
                 {
                     "name": "Ultimate Fortissimo",
+                    "numName": "632146S",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3e/GGST_I-No_Ultimate_Fortissimo.png"
                 }
             ]
@@ -1058,6 +1156,7 @@
             "name": "Jack'O Valentine",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/6/65/GGST_Jack-O%27_Icon.png/85px-GGST_Jack-O%27_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/6/6f/GGST_Jack-O%27_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -1138,44 +1237,64 @@
             "specials": [
                 {  
                     "name": "Summon Servant",
+                    "numName": "236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/37/GGST_Jack-O_Summon_Servant.png"
                 },
                 {  
                     "name": "Defend Command",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/62/GGST_Jack-O_214S.png"
                 },
                 {  
                     "name": "Attack Command",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/15/GGST_Jack-O_214K.png"
                 },
                 {  
                     "name": "Countdown",
+                    "numName": "214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/ec/GGST_Jack-O_214H.png"
                 },
                 {  
                     "name": "Recover Servant",
+                    "numName": "214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/ca/GGST_Jack-O_214P.png"
                 },
                 {  
                     "name": "Release Servant",
+                    "numName": "5D while holding Servant",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/1f/GGST_JackO_Release_Servant.png"
                 },
                 {  
                     "name": "Throw Servant",
+                    "numName": "6P/K/S/H/D while holding Servant",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/8b/GGST_JackO_Throw_Servant.png"
+                },
+                {  
+                    "name": "Pick Up Servant",
+                    "numName": "2P while near Servant",
+                    "moveImg": "https://www.dustloop.com/wiki/images/a/ab/GGST_JackO_Pick_Up_Servant.png"
+                },
+                {  
+                    "name": "Servant Shoot",
+                    "numName": "236K",
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/11/GGST_Jack-O_236K.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Forever Elysion Driver",
+                    "numName": "632146P",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/68/GGST_JackO_Forever_Elysion_Driver.png"
                 },
                 {
                     "name": "Cheer Servant (S Version)",
+                    "numName": "236236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/85/GGST_JackO_Cheer_Servant_On_S.png"
                 },
                 {
                     "name": "Cheer Servant (H Version)",
+                    "numName": "236236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/7d/GGST_JackO_Cheer_Servant_On_H.png"
                 }
             ]
@@ -1185,6 +1304,7 @@
             "name": "Happy Chaos",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/7/78/GGST_Happy_Chaos_Icon.png/85px-GGST_Happy_Chaos_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/c/c4/GGST_Happy_Chaos_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -1261,48 +1381,59 @@
             "specials": [
                 {  
                     "name": "At The Ready (H/Fire)",
+                    "numName": "5H / ]H[",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/25/GGST_Happy_Chaos_5H.png"
                 },
                 {  
                     "name": "At The Ready (Gun flip)",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e9/GGST_Happy_Chaos_236S.png"
                 },
                 {  
                     "name": "Steady Aim",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d8/GGST_Happy_Chaos_214S.png"
                 },
                 {  
                     "name": "Reload",
+                    "numName": "22P",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b6/GGST_Happy_Chaos_22P.png"
                 },
                 {  
                     "name": "Focus",
+                    "numName": "214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e9/GGST_Happy_Chaos_214P.png"
                 },
                 {  
                     "name": "Curse",
+                    "numName": "236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/22/GGST_Happy_Chaos_236P.png"
                 },
                 {  
                     "name": "Scapegoat",
+                    "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/69/GGST_Happy_Chaos_236K.png"
                 },
                 {  
                     "name": "Roll",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b7/GGST_Happy_Chaos_214K.png"
                 },
                 {
                     "name": "Cancel Aim",
+                    "numName": "2H",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/6e/GGST_Happy_Chaos_2H.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Deus Ex Machina",
+                    "numName": "632146S",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/0d/GGST_Happy_Chaos_Deus_Ex_Machina.png"
                 },
                 {
                     "name": "Super Focus",
+                    "numName": "214214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/14/GGST_Happy_Chaos_Super_Focus.png"
                 }
             ]
@@ -1312,6 +1443,7 @@
             "name": "Testament",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/3/32/GGST_Testament_Icon.png/85px-GGST_Testament_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/b/ba/GGST_Testament_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -1391,37 +1523,45 @@
             ],
             "specials": [
                 {  
-                    "name": "Grave Reaper (Grounded",
+                    "name": "Grave Reaper (Grounded)",
+                    "numName": "236S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/23/GGST_Testament_236S.png"
                 },
                 {  
                     "name": "Grave Reaper (Aerial)",
+                    "numName": "J.236S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/aa/GGST_Testament_j236S.png"
                 },
                 {  
                     "name": "Possession",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/a8/GGST_Testament_214K.png"
                 },
                 {  
                     "name": "Unholy Diver",
+                    "numName": "214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3c/GGST_Testament_214P.png"
                 },
                 {  
                     "name": "Arbiter Sign (S Version)",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/2e/GGST_Testament_214S.png"
                 },
                 {  
                     "name": "Arbiter Sign (H Version)",
+                    "numName": "214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/00/GGST_Testament_214H.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Nostrovia",
+                    "numName": "236236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/23/GGST_Testament_236236P.png"
                 },
                 {
                     "name": "Calamity One",
+                    "numName": "236236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3e/GGST_Testament_236236K.png"
                 }
             ]
@@ -1431,6 +1571,7 @@
             "name": "Bedman?",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/e/ec/GGST_Bedman_Icon.png/85px-GGST_Bedman_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/3/33/GGST_Bedman_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -1511,45 +1652,55 @@
             "specials": [
                 {  
                     "name": "call 4BA",
+                    "numName": "236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/73/GGST_Bedman_236P.png"
                 },
                 {  
                     "name": "call 4B3",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/1a/GGST_Bedman_236S.png"
                 },
                 {  
                     "name": "call 4B9 (Malfunction)",
+                    "numName": "236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/88/GGST_Bedman_236H.png"
                 },
                 {  
                     "name": "call 0x$0.20",
+                    "numName": "214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d0/GGST_Bedman_214P.png"
                 },
                 {  
                     "name": "call 0x$1.00",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/80/GGST_Bedman_214K.png"
                 },
                 {  
                     "name": "error 6E (P Version)",
+                    "numName": "Auto after 236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/75/GGST_Bedman_error_6E_P.png"
                 },
                 {  
                     "name": "error 6E (S Version)",
+                    "numName": "Auto after 236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/a5/GGST_Bedman_error_6E_S.png"
                 },
                 {  
                     "name": "error 6E (H Version)",
+                    "numName": "Auto after 236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/5/51/GGST_Bedman_error_6E_H.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "call 13C",
-                    "moveImg": "https://www.dustloop.com/wiki/images/6/6d/GGST_Bedman_632146H_2.png"
+                    "numName": "632146S",
+                    "moveImg": "https://www.dustloop.com/wiki/images/a/a2/GGST_Bedman_632146S_2.png"
                 },
                 {
                     "name": "call 4CC",
-                    "moveImg": "https://www.dustloop.com/wiki/images/a/a2/GGST_Bedman_632146S_2.png"
+                    "numName": "632146H",
+                    "moveImg": "https://www.dustloop.com/wiki/images/6/6d/GGST_Bedman_632146H_2.png"
                 }
             ]
         },
@@ -1558,6 +1709,7 @@
             "name": "Axl Low",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/b/b6/GGST_Axl_Low_Icon.png/85px-GGST_Axl_Low_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/b/b7/GGST_Axl_Low_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -1642,48 +1794,59 @@
             "specials": [
                 {  
                     "name": "Rainwater",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/21/GGST_Axl_Low_214S.png"
                 },
                 {  
                     "name": "Snail (Grounded)",
+                    "numName": "214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/9b/GGST_Axl_Low_214H.png"
                 },
                 {
                     "name": "Snail (Aerial)",
+                    "numName": "J.214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/86/GGST_Axl_Low_j.214H.png"
                 },
                 {  
                     "name": "Axl Bomber",
+                    "numName": "J.236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/8d/GGST_Axl_Low_j.623H.png"
                 },
                 {  
                     "name": "Sickle Flash",
+                    "numName": "[4]6S",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/2f/GGST_Axl_Low_46S.png"
                 },
                 {  
                     "name": "Soaring Chain Strike",
+                    "numName": "[4]6S > 8",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/37/GGST_Axl_Low_46S8.png"
                 },
                 {  
                     "name": "Spinning Chain Strike",
+                    "numName": "[4]6S > 2",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/c9/GGST_Axl_Low_46S2.png"
                 },
                 {  
                     "name": "Winter Cherry",
+                    "numName": "[4]6S > S",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/90/GGST_Axl_Low_46SS_1.png"
                 },
                 {  
                     "name": "Winter Mantis",
+                    "numName": "41236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d6/GGST_Axl_Low_41236H_1.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Sickle Storm",
+                    "numName": "236236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e0/GGST_Axl_Low_236236H_1.png"
                 },
                 {
                     "name": "One Vision",
+                    "numName": "632146P > 632146P",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/8d/GGST_Axl_Low_632146P_2.png"
                 }
             ]
@@ -1693,6 +1856,7 @@
             "name": "Potemkin",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/f/f5/GGST_Potemkin_Icon.png/85px-GGST_Potemkin_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/e/ec/GGST_Potemkin_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -1777,40 +1941,49 @@
             "specials": [
                 {  
                     "name": "Garuda Impact",
+                    "numName": "214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/1b/GGST_Potemkin_Garuda_Impact.png"
                 },
                 {  
-                    "name": "Hammerfall",
+                    "name": "Hammer Fall",
+                    "numName": "[4]6H",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/37/GGST_Potemkin_Hammer_Fall.png"
                 },
                 {  
                     "name": "Heat Knuckle",
+                    "numName": "623H",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d0/GGST_Potemkin_Heat_Knuckle_1.png"
                 },
                 {  
                     "name": "Potemkin Buster",
+                    "numName": "632146P/360P",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/ab/GGST_Potemkin_Potemkin_Buster.png"
                 },
                 {  
                     "name": "Mega Fist",
+                    "numName": "236P/214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/9e/GGST_Potemkin_Mega_Fist.png"
                 },
                 {  
                     "name": "Slide Head",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/90/GGST_Potemkin_Slide_Head.png"
                 },
                 {  
                     "name": "F.D.B",
+                    "numName": "63214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/cf/GGST_Potemkin_FDB.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Heavenly Potemkin Buster",
+                    "numName": "236236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/bf/GGST_Potemkin_Heavenly_Potemkin_Buster.png"
                 },
                 {
                     "name": "Giganter Kai",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3e/GGST_Potemkin_Giganter_Kai.png"
                 }
             ]
@@ -1820,6 +1993,7 @@
             "name": "Faust",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/f/f7/GGST_Faust_Icon.png/85px-GGST_Faust_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/f/ff/GGST_Faust_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -1908,62 +2082,77 @@
             "specials": [
                 {  
                     "name": "Scarecrow",
+                    "numName": "214P/K/S",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/6a/GGST_Faust_214X.png"
                 },
                 {  
                     "name": "Snip Snip Snip",
+                    "numName": "236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/00/GGST_Faust_236H_1.png"
                 },
                 {  
                     "name": "Thrust",
+                    "numName": "41236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/bf/GGST_Faust_41236K.png"
                 },
                 {  
                     "name": "Mix Mix Mix",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/37/GGST_Faust_236S.png"
                 },
                 {  
                     "name": "Love",
+                    "numName": "J.236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/99/GGST_Faust_j236P.png"
                 },
                 {  
                     "name": "What Could This Be?",
+                    "numName": "236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/9a/GGST_Faust_236P.png"
                 },
                 {  
                     "name": "Bomb",
+                    "numName": "Bomb",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/be/GGST_Faust_Bomb.png"
                 },
                 {  
                     "name": "Banana",
+                    "numName": "Banana",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/9b/GGST_Faust_Banana.png"
                 },
                 {  
                     "name": "Donut",
+                    "numName": "Donut",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/94/GGST_Faust_Donut.png"
                 },
                 {  
                     "name": "Afro",
+                    "numName": "Afro",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3f/GGST_Faust_Afro.png"
                 },
                 {  
                     "name": "Hammer",
+                    "numName": "Hammer",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/4c/GGST_Faust_Hammer.png"
                 },
                 {  
                     "name": "Mini Faust",
+                    "numName": "Mini Faust",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/17/GGST_Faust_Small_Faust.png"
                 },
                 {  
                     "name": "100T Weight",
+                    "numName": "100T Weight",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/a7/GGST_Faust_100T_Weight.png"
                 },
                 {  
                     "name": "Trumpet",
+                    "numName": "Trumpet",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/c9/GGST_Faust_Trumpet.png"
                 },
                 {  
                     "name": "Meteors",
+                    "numName": "Meteors",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3a/GGST_Faust_Meteors.png"
                 }
 
@@ -1971,15 +2160,18 @@
             "overdrives": [
                 {
                     "name": "Bone-crushing Excitement",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b4/GGST_Faust_632146H_1.png"
                 },
                 {
                     "name": "W-W-What Could This Be?",
+                    "numName": "236236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3e/GGST_Faust_236236P.png"
                 },
                 {
                     "name": "W-W-W-W-W-W-W-W-W-What Could This Be?",
-                    "moveImg": "https://www.dustloop.com/wiki/images/d/d1/GGST_Faust_236236236P_Items.png"
+                    "numName": "236236236P",
+                    "moveImg": "https://www.dustloop.com/wiki/images/3/3e/GGST_Faust_236236P.png"
                 }
             ]
         },
@@ -1988,6 +2180,7 @@
             "name": "Ramlethal Valentine",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/f/fb/GGST_Ramlethal_Valentine_Icon.png/85px-GGST_Ramlethal_Valentine_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/f/fa/GGST_Ramlethal_Valentine_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -2096,48 +2289,59 @@
             "specials": [
                 {  
                     "name": "Banjoneto (S Version)",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/36/GGST_Ramlethal_Valentine_Bajoneto_S.png"
                 },
                 {  
                     "name": "Banjoneto (H Version)",
+                    "numName": "236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/1e/GGST_Ramlethal_Valentine_Bajoneto_H.png"
                 },
                 {  
                     "name": "Dauro",
+                    "numName": "623P",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/bd/GGST_Ramlethal_Valentine_Dauro.png"
                 },
                 {  
-                    "name": "Erarlumo (1st Rep)",
+                    "name": "Erarlumo (1st Hit)",
+                    "numName": "214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/9f/GGST_Ramlethal_Valentine_Erarlumo_1.png"
                 },
                 {  
-                    "name": "Erarlumo (2nd Rep)",
+                    "name": "Erarlumo (2nd Hit)",
+                    "numName": "214P > 214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/da/GGST_Ramlethal_Valentine_Erarlumo_2.png"
                 },
                 {  
-                    "name": "Eralumo (3rd Rep)",
+                    "name": "Eralumo (3rd Hit)",
+                    "numName": "214P > 214P > 214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/9c/GGST_Ramlethal_Valentine_Erarlumo_3.png"
                 },
                 {  
                     "name": "Sabrubato",
+                    "numName": "214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/1b/GGST_Ramlethal_Valentine_Sabrubato.png"
                 },
                 {  
                     "name": "Sildo Detruo",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/90/GGST_Ramlethal_Valentine_Sildo_Detruo.png"
                 },
                 {  
                     "name": "Agressa Ordono",
+                    "numName": "J.214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/0b/GGST_Ramlethal_Valentine_Agressa_Ordono_1.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Calvados",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/03/GGST_Ramlethal_Valentine_Calvados.png"
                 },
                 {
                     "name": "Mortobato",
+                    "numName": "236236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/16/GGST_Ramlethal_Valentine_Mortobato.png"
                 }
             ]
@@ -2147,6 +2351,7 @@
             "name": "Leo Whitefang",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/6/64/GGST_Leo_Whitefang_Icon.png/85px-GGST_Leo_Whitefang_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/f/f7/GGST_Leo_Whitefang_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -2251,56 +2456,69 @@
             "specials": [
                 {  
                     "name": "Einsensturm",
+                    "numName": "[2]8S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b5/GGST_Leo_Whitefang_Eisen_Sturm.png"
                 },
                 {  
                     "name": "Graviert Wurde",
+                    "numName": "[4]6S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d5/GGST_Leo_Whitefang_Graviert_Wurde.png"
                 },
                 {  
                     "name": "Kaltes Gestober Erst",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/87/GGST_Leo_Whitefang_Kaltes_Gestober_Erst.png"
                 },
                 {  
                     "name": "Kaltes Gestober Zweit",
+                    "numName": "236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/ee/GGST_Leo_Whitefang_Kaltes_Gestober_Zweit.png"
                 },
                 {  
                     "name": "Turbulenz",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e8/GGST_Leo_Whitefang_Turbulenz.png"
                 },
                 {  
                     "name": "Glänzendes Dunkel",
+                    "numName": "214K while Backturn",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/6c/GGST_Leo_Whitefang_bt_214K.png"
                 },
                 {  
-                    "name": "Blitzschlag                    ",
+                    "name": "Blitzschlag",
+                    "numName": "214H while Backturn",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/42/GGST_Leo_Whitefang_bt_214H.png"
                 },
                 {  
                     "name": "Cancel",
+                    "numName": "22 while Backturn",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b9/GGST_Leo_Whitefang_bt_22.png"
                 },
                 {  
                     "name": "Parry Stance (S Version)",
+                    "numName": "[S]",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/78/GGST_Leo_Whitefang_parry.png"
                 },
                 {  
                     "name": "Parry Stance (H Version)",
+                    "numName": "[H]",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/60/GGST_Leo_Whitefang_parry2.png"
                 },
                 {  
                     "name": "Parry Stance (Attack)",
+                    "numName": "[S]H/[H]S",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/09/GGST_Leo_Whitefang_parry_attack.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Liedenschaft des Drigenten",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b3/GGST_Leo_Whitefang_Liedenschaft_des_Dirigenten.png"
                 },
                 {
                     "name": "Stahlwirbel",
+                    "numName": "632146S while Backturn",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/71/GGST_Leo_Whitefang_Stahl_Wirbel.png"
                 }
             ]
@@ -2310,6 +2528,7 @@
             "name": "Giovanna",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/4/41/GGST_Giovanna_Icon.png/85px-GGST_Giovanna_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/3/3f/GGST_Giovanna_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -2398,28 +2617,34 @@
             "specials": [
                 {  
                     "name": "Sepultura",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/8d/GGST_Giovanna_Sepultura.png"
                 },
                 {  
                     "name": "Sol Nascente",
+                    "numName": "623S",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/42/GGST_Giovanna_Sol_Nascente.png"
                 },
                 {  
                     "name": "Trovao",
+                    "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/81/GGST_Giovanna_Trovao.png"
                 },
                 {  
                     "name": "Sol Poente",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/f2/GGST_Giovanna_214S_2.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Ventania",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/7f/GGST_Giovanna_Ventania.png"
                 },
                 {
                     "name": "Tempestade",
+                    "numName": "J.236236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/fd/GGST_Giovanna_j236236H_1.png"
                 }
             ]
@@ -2429,6 +2654,7 @@
             "name": "Anji Mito",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/b/b2/GGST_Anji_Mito_Icon.png/85px-GGST_Anji_Mito_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/5/5c/GGST_Anji_Mito_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -2509,44 +2735,54 @@
             "specials": [
                 {  
                     "name": "Fuujin",
+                    "numName": "236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/93/GGST_Anji_Mito_236H.png"
                 },
                 {  
                     "name": "Nagiha",
+                    "numName": "236H > S",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/05/GGST_Anji_Mito_236HS.png"
                 },
                 {  
                     "name": "Rin",
+                    "numName": "236H > H",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/4b/GGST_Anji_Mito_236HH.png"
                 },
                 {  
                     "name": "Shin: Ichishiki",
+                    "numName": "236H > P",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/95/GGST_Anji_Mito_236HP.png"
                 },
                 {  
                     "name": "Issokutobi",
+                    "numName": "236H > K",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/42/GGST_Anji_Mito_236HK.png"
                 },
                 {  
                     "name": "Kou",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/6f/GGST_Anji_Mito_236S.png"
                 },
                 {  
                     "name": "Shitsu",
+                    "numName": "236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/81/GGST_Anji_Mito_236P.png"
                 },
                 {  
                     "name": "Suigetsu No Hakobi",
+                    "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d5/GGST_Anji_Mito_236K_1.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Issei Ougi: Sai",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/c9/GGST_Anji_Mito_632146H.png"
                 },
                 {
                     "name": "Kachoufuugetsu Kai",
+                    "numName": "632146S",
                     "moveImg": "https://pbs.twimg.com/media/Fw--2nOXwAEqir6?format=jpg&name=900x900"
                 }
             ]
@@ -2556,6 +2792,7 @@
             "name": "Goldlewis Dickinson",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/e/e1/GGST_Goldlewis_Dickinson_Icon.png/85px-GGST_Goldlewis_Dickinson_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/7/7c/GGST_Goldlewis_Dickinson_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -2636,52 +2873,64 @@
             "specials": [
                 {  
                     "name": "Behemoth Typhoon (Forward)",
+                    "numName": "41236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/cf/GGST_Goldlewis_Dickinson_Behemoth_Typhoon_%28426%29.png"
                 },
                 {  
                     "name": "Behemoth Typhoon (Fast)",
+                    "numName": "63214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/04/GGST_Goldlewis_Dickinson_Behemoth_Typhoon_%28624%29.png"
                 },
                 {  
                     "name": "Behemoth Typhoon (Launch)",
+                    "numName": "23698H",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/12/GGST_Goldlewis_Dickinson_Behemoth_Typhoon_%28268%29.png"
                 },
                 {  
                     "name": "Behemoth Typhoon (Back)",
+                    "numName": "21478H",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/f9/GGST_Goldlewis_Dickinson_Behemoth_Typhoon_%28248%29.png"
                 },
                 {  
                     "name": "Behemoth Typhoon (Up)",
+                    "numName": "69874H",
                     "moveImg": "https://www.dustloop.com/wiki/images/5/56/GGST_Goldlewis_Dickinson_Behemoth_Typhoon_%28684%29.png"
                 },
                 {  
                     "name": "Behemoth Typhoon (Slow Overhead)",
+                    "numName": "47896H",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/3d/GGST_Goldlewis_Dickinson_Behemoth_Typhoon_%28486%29.png"
                 },
                 {  
                     "name": "Behemoth Typhoon (Slow Low)",
+                    "numName": "87412H",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/03/GGST_Goldlewis_Dickinson_Behemoth_Typhoon_%28842%29.png"
                 },
                 {  
                     "name": "Behemoth Typhoon (Fast Overhead)",
+                    "numName": "89632H",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/37/GGST_Goldlewis_Dickinson_Behemoth_Typhoon_%28862%29.png"
                 },
                 {  
                     "name": "Thunderbird",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/ef/GGST_Goldlewis_Dickinson_Thunderbird.png"
                 },
                 {  
                     "name": "Skyfish",
+                    "numName": "236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/5/5e/GGST_Goldlewis_Dickinson_Skyfish.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Down With The System",
+                    "numName": "632146P / 720P / 1080P",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e8/GGST_Goldlewis_Dickinson_Down_with_the_System.png"
                 },
                 {
                     "name": "Burn it Down",
+                    "numName": "236236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/06/GGST_Goldlewis_Dickinson_Burn_It_Down2.png"
                 }
             ]
@@ -2691,6 +2940,7 @@
             "name": "Baiken",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/1/1c/GGST_Baiken_Icon.png/85px-GGST_Baiken_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/6/6e/GGST_Baiken_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -2775,36 +3025,44 @@
             "specials": [
                 {  
                     "name": "Tatami",
+                    "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/29/GGST_Baiken_236K.png"
                 },
                 {  
                     "name": "Hiiragi",
+                    "numName": "236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/cf/GGST_Baiken_236P.png"
                 },
                 {  
                     "name": "Kabari (S Version)",
+                    "numName": "41236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/28/GGST_Baiken_41236S.png"
                 },
                 {  
                     "name": "Kabari (H Version)",
+                    "numName": "41236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/7c/GGST_Baiken_41236H.png"
                 },
                 {  
                     "name": "Kabari (H Version Followup)",
+                    "numName": "41236H > H",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/a3/GGST_Baiken_41236HH.png"
                 },
                 {  
                     "name": "Youzansen",
+                    "numName": "J.236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/bd/GGST_Baiken_j236S.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Kenjyu",
+                    "numName": "214214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/17/GGST_Baiken_214214P.png"
                 },
                 {
                     "name": "Tsurane Sanzu-watashi",
+                    "numName": "236236S",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/a9/GGST_Baiken_236236S.png"
                 }
             ]
@@ -2814,6 +3072,7 @@
             "name": "Bridget",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/b/b5/GGST_Bridget_Icon.png/85px-GGST_Bridget_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/8/83/GGST_Bridget_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -2906,48 +3165,59 @@
             "specials": [
                 {  
                     "name": "Kick Start My Heart",
+                    "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e9/GGST_Bridget_236K.png"
                 },
                 {  
                     "name": "Brake",
+                    "numName": "236K > P",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/71/GGST_Bridget_236KP.png"
                 },
                 {  
                     "name": "Shoot",
+                    "numName": "236K > K",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/24/GGST_Bridget_236KK.png"
                 },
                 {  
                     "name": "Stop and Dash (Hit on Send)",
+                    "numName": "236S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/2c/GGST_Bridget_236SH.png"
                 },
                 {  
                     "name": "Stop and Dash (Hit on Return)",
+                    "numName": "214S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/0/00/GGST_Bridget_Stop_and_Dash_214X.png"
                 },
                 {  
                     "name": "Rolling Movement",
+                    "numName": "214K",
                     "moveImg": "https://www.dustloop.com/wiki/images/a/a2/GGST_Bridget_214K.png"
                 },
                 {  
                     "name": "Starship",
+                    "numName": "623P",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/dd/GGST_Bridget_623P.png"
                 },
                 {  
                     "name": "Roger Dive",
+                    "numName": "J.236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/c5/GGST_Bridget_j236K_1.png"
                 },
                 {  
                     "name": "Rock The Baby",
+                    "numName": "63214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/34/GGST_Bridget_63214P.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "Loop the Loop",
+                    "numName": "632146S",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/f6/GGST_Bridget_632146S_1.png"
                 },
                 {
                     "name": "Return of The Killing Machine",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/b/b2/GGST_Bridget_632146H.png"
                 }
             ]
@@ -2957,6 +3227,7 @@
             "name": "Sin Kiske",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/a/ac/GGST_Sin_Kiske_Icon.png/85px-GGST_Sin_Kiske_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/8/8a/GGST_Sin_Kiske_Portrait.png",
+            "isSpells": false,
             "moves": [
                 {
                     "name": "5P",
@@ -3041,52 +3312,64 @@
             "specials": [
                 {  
                     "name": "Beak Driver",
+                    "numName": "236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/c1/GGST_Sin_Kiske_236H.png"
                 },
                 {  
                     "name": "Beak Driver (Followup)",
+                    "numName": "236H > H",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/40/GGST_Sin_Kiske_236HH.png"
                 },
                 {  
                     "name": "Hoof Stomp",
+                    "numName": "214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/7f/GGST_Sin_Kiske_214S.png"
                 },
                 {  
                     "name": "Hoof Stomp (Followup)",
+                    "numName": "214S > S",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/9f/GGST_Sin_Kiske_214SS.png"
                 },
                 {  
                     "name": "Elk Hunt",
+                    "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/6e/GGST_Sin_Kiske_236K.png"
                 },
                 {  
                     "name": "Elk Hunt (Followup)",
+                    "numName": "236K > K",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/4e/GGST_Sin_Kiske_236KK.png"
                 },
                 {  
                     "name": "Hawk Baker",
+                    "numName": "623S",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e8/GGST_Sin_Kiske_623S.png"
                 },
                 {  
                     "name": "Hawk Baker (Followup)",
+                    "numName": "623S > S",
                     "moveImg": "https://www.dustloop.com/wiki/images/5/5c/GGST_Sin_Kiske_623SS.png"
                 },
                 {  
                     "name": "Gazelle Step",
+                    "numName": "66 after Special",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/9a/GGST_Sin_Kiske_GazelleStep.png"
                 },
                 {  
                     "name": "Still Growing",
+                    "numName": "63214P",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/1d/GGST_Sin_Kiske_63214P.png"
                 }
             ],
             "overdrives": [
                 {
                     "name": "R.T.L",
+                    "numName": "632146H",
                     "moveImg": "https://www.dustloop.com/wiki/images/6/67/GGST_Sin_Kiske_632146H.png"
                 },
                 {
                     "name": "Tyrant Barrel",
+                    "numName": "236236P > P",
                     "moveImg": "https://www.dustloop.com/wiki/images/e/e9/GGST_Sin_Kiske_236236PP.png"
                 }
             ]
@@ -3096,6 +3379,7 @@
             "name": "Asuka R# (R. Kreutz)",
             "homeImg": "https://www.dustloop.com/wiki/images/thumb/4/47/GGST_Asuka_R_Icon.png/85px-GGST_Asuka_R_Icon.png",
             "portraitImg": "https://www.dustloop.com/wiki/images/f/f7/GGST_Asuka_R_Portrait.png",
+            "isSpells": true,
             "moves": [
                 {
                     "name": "5P",
@@ -3180,36 +3464,223 @@
             "specials": [
                 {  
                     "name": "Bookmark",
+                    "numName": "214P/K/S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/44/GGST_Asuka_R_214X.png"
                 },
                 {  
                     "name": "Chant",
+                    "numName": "236P/K/S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/3/37/GST_Asuka_236X.png"
                 },
                 {  
                     "name": "Change Test Case",
+                    "numName": "22H > P/K/S",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/c5/GGST_Asuka_R_22HX.png"
                 },
                 {  
                     "name": "Recover Mana (P Version)",
+                    "numName": "22P",
                     "moveImg": "https://www.dustloop.com/wiki/images/4/49/GGST_Asuka_R_22PKS.png"
                 },
                 {  
                     "name": "Recover Mana (K Version)",
+                    "numName": "22K",
                     "moveImg": "https://www.dustloop.com/wiki/images/7/76/GGST_Asuka_R_22PKS_3.png"
                 },
                 {  
                     "name": "Recover Mana (S Version)",
+                    "numName": "22S",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/91/GGST_Asuka_R_22PKS_2.png"
                 }
             ],
+            "spells": [
+                {
+                    "name": "Reduced Mana Cost",
+                    "testCase": [
+                        "1"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/d/d0/GGST_Asuka_R_Reduce_Mana_Cost.png"
+                },
+                {
+                    "name": "Recover Mana (Continuous)",
+                    "testCase": [
+                        "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/8/8f/GGST_Asuka_R_Recover_Mana_%28Continuous%29.png"
+                },
+                {
+                    "name": "Recover Mana (Instant)",
+                    "testCase": [
+                        "2"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/3/35/GGST_Asuka_R_Recover_Mana_%28Instant%29.png"
+                },
+                {
+                    "name": "Bookmark (Full Import)",
+                    "testCase": [
+                        "1"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/9/9f/GGST_Asuka_R_Bookmark_%28Full_Import%29.png"
+                },
+                {
+                    "name": "Bookmark (Random Import)",
+                    "testCase": [
+                        "2"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/5/56/GGST_Asuka_R_Bookmark_%28Random_Import%29.png"
+                },
+                {
+                    "name": "Bookmark (Auto Import)",
+                    "testCase": [
+                        "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/8/82/GGST_Asuka_R_Bookmark_%28Auto_Import%29.png"
+                },
+                {
+                    "name": "High-Pass Filter Gravity",
+                    "testCase": [
+                        "1"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/6/64/GGST_Asuka_R_High-Pass_Filter_Gravity.png"
+                },
+                {
+                    "name": "Low-Pass Filter Gravity",
+                    "testCase": [
+                        "2"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/a/a8/GGST_Asuka_R_Low-Pass_Filter_Gravity.png"
+                },
+                {
+                    "name": "Shooting Time Stretch (Accelerate)",
+                    "testCase": ["1"],
+                    "moveImg": "https://www.dustloop.com/wiki/images/d/dc/GGST_Asuka_R_Shooting_Time_Stretch_%28Accelerate%29.png"
+                },
+                {
+                    "name": "Shooting Time Stretch (Decelerate)",
+                    "testCase": ["1"],
+                    "moveImg": "https://www.dustloop.com/wiki/images/a/a3/GGST_Asuka_R_Shooting_Time_Stretch_%28Decelerate%29.png"
+                },
+                {
+                    "name": "Gravity Rod (Shooting)",
+                    "testCase": ["3"],
+                    "moveImg": "https://www.dustloop.com/wiki/images/0/0f/GGST_Asuka_R_Gravity_Rod_%28Shooting%29.png"
+                },
+                {
+                    "name": "Repulsive Rod (Shooting)",
+                    "testCase": [
+                        "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/40/GGST_Asuka_R_Repulsive_Rod_%28Shooting%29.png"
+                },
+                {
+                    "name": "Howling Metron",
+                    "testCase": [
+                        "1", "2", "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/c/ca/GGST_Asuka_R_Howling_Metron.png"
+                },
+                {
+                    "name": "Delayed Howling Metron",
+                    "testCase": [
+                        "1", "2", "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/2/2b/GGST_Asuka_R_Delayed_Howling_Metron.png"
+                },
+                {
+                    "name": "Howling Metron MS Processing",
+                    "testCase": [
+                        "1", "2", "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/2/25/GGST_Asuka_R_Howling_Metron_MS_Processing.png"
+                },
+                {
+                    "name": "Metron Screamer 808",
+                    "testCase": [
+                        "1","3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/5/5c/GGST_Asuka_R_Metron_Screamer_808.png"
+                },
+                {
+                    "name": "Metron Arpeggio",
+                    "testCase": [
+                        "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/d/dc/GGST_Asuka_R_Metron_Arpeggio_2.png"
+                },
+                {
+                    "name": "Delayed Tardus Metron",
+                    "testCase": [
+                        "2", "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/a/a1/GGST_Asuka_R_Delayed_Tardus_Metron.png"
+                },
+                {
+                    "name": "Terra Metron",
+                    "testCase": [
+                        "1", "2"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/e/e6/GGST_Asuka_R_Terra_Metron.png"
+                },
+                {
+                    "name": "Accipiter Metron",
+                    "testCase": [
+                        "1", "2"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/d/d8/GGST_Asuka_R_Accipiter_Metron.png"
+                },
+                {
+                    "name": "Aquila Metron",
+                    "testCase": [
+                        "1"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/40/GGST_Asuka_R_Aquila_Metron.png"
+                },
+                {
+                    "name": "Bit Shift Metron",
+                    "testCase": [
+                        "2", "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/f/f3/GGST_Asuka_R_Bit_Shift_Metron.png"
+                },
+                {
+                    "name": "RMS Boost Metron",
+                    "testCase": [
+                        "2", "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/0/04/GGST_Asuka_R_RMS_Boost_Metron.png"
+                },
+                {
+                    "name": "Go to Marker",
+                    "testCase": [
+                        "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/4d/GGST_Asuka_R_Go_to_Marker.png"
+                },
+                {
+                    "name": "Sampler 404",
+                    "testCase": [
+                        "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/16/GGST_Asuka_R_Sampler_404.png"
+                },
+                {
+                    "name": "Chaotic Option",
+                    "testCase": [
+                        "2", "3"
+                    ],
+                    "moveImg": "https://www.dustloop.com/wiki/images/f/f7/GGST_Asuka_R_Chaotic_Option.png"
+                }
+            ],
+
             "overdrives": [
                 {
                     "name": "High Compression Submicron Particle Sphere",
+                    "numName": "632146P/K",
                     "moveImg": "https://www.dustloop.com/wiki/images/8/8e/GGST_Asuka_R_632146PK.png"
                 },
                 {
                     "name": "Bookmark (Full Order)",
+                    "numName": "632146S",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/c6/GGST_Asuka_R_632146S.png"
                 }
             ]
