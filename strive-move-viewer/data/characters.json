@@ -92,57 +92,68 @@
             "commandMoves": [
                 {
                     "name": "6P",
-                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/2/25/GGST_Sol_Badguy_6P.png/547px-GGST_Sol_Badguy_6P.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/2/25/GGST_Sol_Badguy_6P.png/547px-GGST_Sol_Badguy_6P.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/d/da/GGST_Sol_6P_Hitbox.png"
                 },
                 {
                     "name": "6S",
-                    "moveImg": "https://www.dustloop.com/wiki/images/a/a3/GGST_Sol_Badguy_6S.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/a/a3/GGST_Sol_Badguy_6S.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/c/c2/GGST_Sol_6S_Hitbox.png"
                 },
                 {
                     "name": "6H",
-                    "moveImg": "https://www.dustloop.com/wiki/images/a/ac/GGST_Sol_Badguy_6H.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/a/ac/GGST_Sol_Badguy_6H.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/1/11/GGST_Sol_6H_Hitbox.png"
                 }
             ],
             "specials": [
                 {  
                     "name": "Gun Flame",
                     "numName": "236P",
-                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/4/4f/GGST_Sol_Badguy_236P.png/731px-GGST_Sol_Badguy_236P.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/c/c4/GGST_Sol_236P_Hitbox.png"
                 },
                 {  
                     "name": "Gun Flame (Feint)",
                     "numName": "214P",
-                    "moveImg": "https://www.dustloop.com/wiki/images/d/dd/GGST_Sol_Badguy_214P.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/d/dd/GGST_Sol_Badguy_214P.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/c/c0/GGST_Sol_214P_Hitbox.png"
                 },
                 {  
                     "name": "Volcanic Viper",
                     "numName": "623S/H",
-                    "moveImg": "https://www.dustloop.com/wiki/images/2/20/GGST_Sol_Badguy_623X.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/2/20/GGST_Sol_Badguy_623X.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/b/bd/GGST_Sol_623S_2_Hitbox.png"
                 },
                 {  
                     "name": "Bandit Revolver",
                     "numName": "236K",
-                    "moveImg": "https://www.dustloop.com/wiki/images/1/13/GGST_Sol_Badguy_236K.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/13/GGST_Sol_Badguy_236K.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/b/b8/GGST_Sol_236K_Hitbox.png"
                 },
                 {  
                     "name": "Bandit Bringer",
                     "numName": "214K",
-                    "moveImg": "https://www.dustloop.com/wiki/images/b/bd/GGST_Sol_Badguy_214K.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/b/bd/GGST_Sol_Badguy_214K.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/9/92/GGST_Sol_214K_Hitbox.png"
                 },
                 {  
                     "name": "Wild Throw",
                     "numName": "623K",
-                    "moveImg": "https://www.dustloop.com/wiki/images/e/e3/GGST_Sol_Badguy_623K_2.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/e/e3/GGST_Sol_Badguy_623K_2.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/d/d0/GGST_Sol_623K_Hitbox.png"
                 },
                 {  
                     "name": "Night Raid Vortex",
                     "numName": "214S",
-                    "moveImg": "https://www.dustloop.com/wiki/images/6/62/GGST_Sol_Badguy_214S_2.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/6/62/GGST_Sol_Badguy_214S_2.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/e/e8/GGST_Sol_214S_2_Hitbox.png"
                 },
                 {  
                     "name": "Fafnir",
                     "numName": "41236H",
-                    "moveImg": "https://www.dustloop.com/wiki/images/2/2c/GGST_Sol_Badguy_41236H.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/2/2c/GGST_Sol_Badguy_41236H.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/7/74/GGST_Sol_41236H_Hitbox.png"
                 }
 
             ],
@@ -150,12 +161,14 @@
                 {
                     "name": "Tyrant Rave",
                     "numName": "632146H",
-                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/0/00/GGST_Sol_Badguy_632146H_2.png/800px-GGST_Sol_Badguy_632146H_2.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/0/00/GGST_Sol_Badguy_632146H_2.png/800px-GGST_Sol_Badguy_632146H_2.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/b/b8/GGST_Sol_TyrantRave2_Hitbox.png"
                 },
                 {
                     "name": "Heavy Mob Cemetary",
                     "numName": "214214H",
-                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/f/f0/GGST_Sol_Badguy_214214H.png/800px-GGST_Sol_Badguy_214214H.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/thumb/f/f0/GGST_Sol_Badguy_214214H.png/800px-GGST_Sol_Badguy_214214H.png",
+                    "hitboxImg": "https://www.dustloop.com/wiki/images/0/0f/GGST_Sol_HeavyMobCemetery_Hitbox.png"
                 }
             ]
         },

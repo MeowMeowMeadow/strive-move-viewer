@@ -20,12 +20,17 @@
     </div>
     <div v-if="showCommand" class="CommandNormals">
         <div v-for="command in commands">
-            <button @click="this.$emit('update',command.moveImg)">{{ command.name }}</button>
+            <button v-if="isHitbox" @click="this.$emit('update',command.hitboxImg)">{{ command.name }}</button>
+            <button v-else @click="this.$emit('update',command.moveImg)">{{ command.name }}</button>
         </div>
     </div>
     <div v-if="showSpecials" class="Specials">
         <div v-for="special in specials">
-            <button  @click="this.$emit('update',special.moveImg)">
+            <button v-if="isHitbox" @click="this.$emit('update',special.hitboxImg)">
+                <span v-if="isNum">{{ special.numName }}</span>
+                <span v-else>{{ special.name }}</span>
+            </button>
+            <button v-else @click="this.$emit('update',special.moveImg)">
                 <span v-if="isNum">{{ special.numName }}</span>
                 <span v-else>{{ special.name }}</span>
             </button>
@@ -38,7 +43,11 @@
     </div>
     <div v-if="showOverdrives" class="Overdrives">
         <div v-for="overdrive in overdrives">
-            <button  @click="this.$emit('update',overdrive.moveImg)">
+            <button  v-if="isHitbox" @click="this.$emit('update',overdrive.hitboxImg)">
+                <span v-if="isNum">{{ overdrive.numName }}</span>
+                <span v-else>{{ overdrive.name }}</span>
+            </button>
+            <button  v-else @click="this.$emit('update',overdrive.moveImg)">
                 <span v-if="isNum">{{ overdrive.numName }}</span>
                 <span v-else>{{ overdrive.name }}</span>
             </button>
