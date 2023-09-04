@@ -107,6 +107,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/9/91/GGST_Sol_Badguy_236D.png"
+                },
                 {  
                     "name": "Gun Flame",
                     "numName": "236P",
@@ -279,6 +284,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/17/GGST_Ky_Kiske_236D.png"
+                },
                 {  
                     "name": "Stun Edge",
                     "numName": "236S",
@@ -445,6 +455,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/0/0b/GGST_May_236D.png"
+                },
                 {  
                     "name": "Arisugawa Sparkle",
                     "numName": "214P/K",
@@ -454,6 +469,11 @@
                     "name": "Mr Dolphin (Horizontal)",
                     "numName": "[4]6S/H",
                     "moveImg": "https://www.dustloop.com/wiki/images/2/29/GGST_May_Mr._Dolphin_Horizontal.png"
+                },
+                {  
+                    "name": "Mr Dolphin (Split)",
+                    "numName": "[4]6S/H > K",
+                    "moveImg": "https://www.dustloop.com/wiki/images/0/04/GGST_May_46X-K.png"
                 },
                 {  
                     "name": "Mr Dolphin (Vertical)",
@@ -571,6 +591,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/8/8a/GGST_Chipp_Zanuff_236D.png"
+                },
                 {  
                     "name": "Resshou",
                     "numName": "236S",
@@ -730,6 +755,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/2/2e/GGST_Millia_Rage_236D.png"
+                },
                 {  
                     "name": "Tandem Top",
                     "numName": "236S/H",
@@ -867,6 +897,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/41/GGST_Zato-1_236D.png"
+                },
                 {  
                     "name": "Summon Eddie",
                     "numName": "214H",
@@ -1022,6 +1057,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/0/03/GGST_Nagoriyuki_236D.png"
+                },
                 {  
                     "name": "Blood Rage",
                     "numName": "Blood Rage",
@@ -1150,6 +1190,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/43/GGST_I-No_236D.png"
+                },
                 {  
                     "name": "Antidepressant Scale",
                     "numName": "214P",
@@ -1179,6 +1224,11 @@
                     "name": "Sultry Performance (H Version)",
                     "numName": "J.236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/f/f9/GGST_I-No_Sultry_Performance_3.png"
+                },
+                {
+                    "name": "Mad Love Agitato",
+                    "numName": "214S",
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/4d/GGST_I-No_214S.png"
                 }
             ],
             "overdrives": [
@@ -1278,6 +1328,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/5/55/GGST_Jack-O_236D.png"
+                },
                 {  
                     "name": "Summon Servant",
                     "numName": "236P",
@@ -1422,6 +1477,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/1c/GGST_Happy_Chaos_236D.png"
+                },
                 {  
                     "name": "At The Ready (H/Fire)",
                     "numName": "5H / ]H[",
@@ -1565,6 +1625,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/1f/GGST_Testament_236D.png"
+                },
                 {  
                     "name": "Grave Reaper (Grounded)",
                     "numName": "236S/H",
@@ -1693,6 +1758,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/c/cb/GGST_Bedman_236D.png"
+                },
                 {  
                     "name": "call 4BA",
                     "numName": "236P",
@@ -1835,6 +1905,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/e/ee/GGST_Axl_Low_236D.png"
+                },
                 {  
                     "name": "Rainwater",
                     "numName": "214S",
@@ -1982,6 +2057,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/6/6e/GGST_Potemkin_236D.png"
+                },
                 {  
                     "name": "Garuda Impact",
                     "numName": "214H",
@@ -2123,6 +2203,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/e/e9/GGST_Faust_236D.png"
+                },
                 {  
                     "name": "Scarecrow",
                     "numName": "214P/K/S",
@@ -2152,6 +2237,16 @@
                     "name": "What Could This Be?",
                     "numName": "236P",
                     "moveImg": "https://www.dustloop.com/wiki/images/9/9a/GGST_Faust_236P.png"
+                },
+                {  
+                    "name": "What Could This Be? (Item Store)",
+                    "numName": "236[P]",
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/19/GGST_Faust_236%28P%29.png"
+                },
+                {  
+                    "name": "What Could This Be? (Spit)",
+                    "numName": "22P",
+                    "moveImg": "https://www.dustloop.com/wiki/images/8/80/GGST_Faust_22P.png"
                 },
                 {  
                     "name": "Bomb",
@@ -2330,6 +2425,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/8/81/GGST_Ramlethal_Valentine_236D.png"
+                },
                 {  
                     "name": "Banjoneto (S Version)",
                     "numName": "236S",
@@ -2364,6 +2464,11 @@
                     "name": "Sabrubato",
                     "numName": "214H",
                     "moveImg": "https://www.dustloop.com/wiki/images/1/1b/GGST_Ramlethal_Valentine_Sabrubato.png"
+                },
+                {
+                    "name": "Ondo",
+                    "numName": "236K",
+                    "moveImg": "https://www.dustloop.com/wiki/images/7/74/GGST_Ramlethal_Valentine_236K.png"
                 },
                 {  
                     "name": "Sildo Detruo",
@@ -2497,6 +2602,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/4f/GGST_Leo_Whitefang_236D.png"
+                },
                 {  
                     "name": "Einsensturm",
                     "numName": "[2]8S/H",
@@ -2658,6 +2768,16 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/3/37/GGST_Giovanna_236D.png"
+                },
+                {  
+                    "name": "Chave",
+                    "numName": "214H",
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/1e/GGST_Giovanna_214H.png"
+                },
                 {  
                     "name": "Sepultura",
                     "numName": "214K",
@@ -2776,6 +2896,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/6/6f/GGST_Anji_Mito_236D.png"
+                },
                 {  
                     "name": "Fuujin",
                     "numName": "236H",
@@ -2815,6 +2940,11 @@
                     "name": "Suigetsu No Hakobi",
                     "numName": "236K",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d5/GGST_Anji_Mito_236K_1.png"
+                },
+                {
+                    "name": "Midare",
+                    "numName": "214P after autoguard activation",
+                    "moveImg": "https://www.dustloop.com/wiki/images/b/b0/GGST_Anji_Mito_214P.png"
                 }
             ],
             "overdrives": [
@@ -2914,6 +3044,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/9/91/GGST_Goldlewis_Dickinson_236D.png"
+                },
                 {  
                     "name": "Behemoth Typhoon (Forward)",
                     "numName": "41236H",
@@ -3066,6 +3201,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/4/45/GGST_Baiken_236D.png"
+                },
                 {  
                     "name": "Tatami",
                     "numName": "236K",
@@ -3206,6 +3346,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/17/GGST_Bridget_236D.png"
+                },
                 {  
                     "name": "Kick Start My Heart",
                     "numName": "236K",
@@ -3353,6 +3498,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/1/1f/GGST_Sin_Kiske_236D.png"
+                },
                 {  
                     "name": "Beak Driver",
                     "numName": "236H",
@@ -3505,6 +3655,11 @@
                 }
             ],
             "specials": [
+                {
+                    "name": "Wild Assault",
+                    "numName": "236D",
+                    "moveImg": "https://www.dustloop.com/wiki/images/f/fe/GGST_Asuka_R_236D.png"
+                },
                 {  
                     "name": "Bookmark",
                     "numName": "214P/K/S/H",
@@ -3513,7 +3668,7 @@
                 {  
                     "name": "Chant",
                     "numName": "236P/K/S/H",
-                    "moveImg": "https://www.dustloop.com/wiki/images/3/37/GST_Asuka_236X.png"
+                    "moveImg": "https://www.dustloop.com/wiki/images/c/c1/GGST_Asuka_236X.png"
                 },
                 {  
                     "name": "Change Test Case",
@@ -3727,6 +3882,153 @@
                     "moveImg": "https://www.dustloop.com/wiki/images/c/c6/GGST_Asuka_R_632146S.png"
                 }
             ]
+        },
+        {
+            "id": "johnny",
+            "name": "Johnny",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/d/df/GGST_Johnny_Icon.png/85px-GGST_Johnny_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/3/3f/GGST_Johnny_Portrait.png",
+            "isSpells": false,
+            "moves": [
+            {
+                "name": "5P",
+                "moveImg": "https://www.dustloop.com/wiki/images/7/7a/GGST_Johnny_5P.png"
+            },
+            {
+                "name": "5K",
+                "moveImg": "https://www.dustloop.com/wiki/images/3/36/GGST_Johnny_5K.png"
+            },
+            {
+                "name": "Close S",
+                "moveImg": "https://www.dustloop.com/wiki/images/4/4f/GGST_Johnny_cS.png"
+            },
+            {
+                "name": "Far S",
+                "moveImg": "https://www.dustloop.com/w/File:GGST_Johnny_fS.png"
+            },
+            {
+                "name": "5H",
+                "moveImg": "https://www.dustloop.com/wiki/images/c/ca/GGST_Johnny_5H.png"
+            },
+            {
+                "name": "5D",
+                "moveImg": "https://www.dustloop.com/wiki/images/3/37/GGST_Johnny_5D.png"
+            },
+            {
+                "name": "2P",
+                "moveImg": "https://www.dustloop.com/wiki/images/6/6e/GGST_Johnny_2P.png"
+            },
+            {
+                "name": "2K",
+                "moveImg": "https://www.dustloop.com/wiki/images/a/a1/GGST_Johnny_2K.png"
+            },
+            {
+                "name": "2S",
+                "moveImg": "https://www.dustloop.com/wiki/images/0/09/GGST_Johnny_2S.png"
+            },
+            {
+                "name": "2H",
+                "moveImg": "https://www.dustloop.com/wiki/images/c/cf/GGST_Johnny_2H.png"
+            },
+            {
+                "name": "2D",
+                "moveImg": "https://www.dustloop.com/wiki/images/0/04/GGST_Johnny_2D.png"
+            },
+            {
+                "name": "J.P",
+                "moveImg": "https://www.dustloop.com/wiki/images/1/16/GGST_Johnny_jP.png"
+            },
+            {
+                "name": "J.K",
+                "moveImg": "https://www.dustloop.com/wiki/images/3/3b/GGST_Johnny_jK.png"
+            },
+            {
+                "name": "J.S",
+                "moveImg": "https://www.dustloop.com/wiki/images/a/a7/GGST_Johnny_jS.png"
+            },
+            {
+                "name": "J.H",
+                "moveImg": "https://www.dustloop.com/wiki/images/5/5d/GGST_Johnny_jH.png"
+            },
+            {
+                "name": "J.D",
+                "moveImg": "https://www.dustloop.com/wiki/images/c/c1/GGST_Johnny_jD.png"
+            }
+            
+        ],
+        "commandMoves": [
+            {
+                "name": "6P",
+                "moveImg": "https://www.dustloop.com/wiki/images/3/34/GGST_Johnny_6P.png"
+            },
+            {
+                "name": "6K",
+                "moveImg": "https://www.dustloop.com/wiki/images/f/f8/GGST_Johnny_6K.png"
+            },
+            {
+                "name": "6H",
+                "moveImg": "https://www.dustloop.com/wiki/images/b/b0/GGST_Johnny_6H.png"
+            }
+        ],
+        "specials": [
+            {
+                "name": "Wild Assault",
+                "numName": "236D",
+                "moveImg": "https://www.dustloop.com/wiki/images/b/b2/GGST_Johnny_236D.png"
+            },
+            {  
+                "name": "Mist Finer Stance",
+                "numName": "214[P/K/S]",
+                "moveImg": "https://www.dustloop.com/wiki/images/1/10/GGST_Johnny_214%28X%29.png"
+            },
+            {  
+                "name": "Mist Finer: Upward",
+                "numName": "214]P[",
+                "moveImg": "https://www.dustloop.com/wiki/images/5/5f/GGST_Johnny_214P.png"
+            },
+            {  
+                "name": "Mist Finer: Horizontal",
+                "numName": "214]K[",
+                "moveImg": "https://www.dustloop.com/wiki/images/5/53/GGST_Johnny_214K.png"
+            },
+            {  
+                "name": "Mist Finer: Downward",
+                "numName": "214]S[",
+                "moveImg": "https://www.dustloop.com/wiki/images/d/d9/GGST_Johnny_214S.png"
+            },
+            {  
+                "name": "Deal",
+                "numName": "236P/K/S",
+                "moveImg": "https://www.dustloop.com/wiki/images/6/68/GGST_Johnny_236PKS.png"
+            },
+            {  
+                "name": "Deal (Aerial)",
+                "numName": "J.236H / H during Vault",
+                "moveImg": "https://www.dustloop.com/wiki/images/f/f6/GGST_Johnny_j.236H.png"
+            },
+            {  
+                "name": "Vault",
+                "numName": "236H",
+                "moveImg": "https://www.dustloop.com/wiki/images/8/81/GGST_Johnny_236H.png"
+            },
+            {  
+                "name": "Ensenga",
+                "numName": "214H",
+                "moveImg": "https://www.dustloop.com/wiki/images/0/03/GGST_Johnny_214H.png"
+            }
+        ],
+        "overdrives": [
+            {
+                "name": "That's My Name",
+                "numName": "632146H",
+                "moveImg": "https://www.dustloop.com/wiki/images/2/2e/GGST_Johnny_632146H.png"
+            },
+            {
+                "name": "Joker Trick",
+                "numName": "236236S",
+                "moveImg": "https://www.dustloop.com/wiki/images/4/40/GGST_Johnny_236236S.png"
+            }
+        ]
         }
-    ]
+    ]      
 }
