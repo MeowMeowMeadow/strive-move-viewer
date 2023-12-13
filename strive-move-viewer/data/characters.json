@@ -1954,6 +1954,11 @@
                     "name": "Winter Mantis",
                     "numName": "41236H",
                     "moveImg": "https://www.dustloop.com/wiki/images/d/d6/GGST_Axl_Low_41236H_1.png"
+                },
+                {
+                    "name": "Whistling Wind",
+                    "numName": "214K",
+                    "moveImg": "https://www.dustloop.com/wiki/images/f/f1/GGST_Axl_Low_214K.png"
                 }
             ],
             "overdrives": [
@@ -2096,6 +2101,11 @@
                     "name": "F.D.B",
                     "numName": "63214S",
                     "moveImg": "https://www.dustloop.com/wiki/images/c/cf/GGST_Potemkin_FDB.png"
+                },
+                {
+                    "name": "Heat Tackle",
+                    "numName": "41236H",
+                    "moveImg": "https://www.dustloop.com/wiki/images/c/c4/GGST_Potemkin_41236H.png"
                 }
             ],
             "overdrives": [
@@ -4027,6 +4037,148 @@
                 "name": "Joker Trick",
                 "numName": "236236S",
                 "moveImg": "https://www.dustloop.com/wiki/images/4/40/GGST_Johnny_236236S.png"
+            }
+        ]
+        },
+        {
+            "id": "elphelt",
+            "name": "Elphelt Valentine",
+            "homeImg": "https://www.dustloop.com/wiki/images/thumb/d/d4/GGST_Elphelt_Valentine_Icon.png/85px-GGST_Elphelt_Valentine_Icon.png",
+            "portraitImg": "https://www.dustloop.com/wiki/images/6/6d/GGST_Elphelt_Valentine_Portrait.png",
+            "isSpells": false,
+            "moves": [
+            {
+                "name": "5P",
+                "moveImg": "https://www.dustloop.com/wiki/images/0/0b/GGST_Elphelt_Valentine_5P.png"
+            },
+            {
+                "name": "5K",
+                "moveImg": "https://www.dustloop.com/wiki/images/e/e0/GGST_Elphelt_Valentine_5K.png"
+            },
+            {
+                "name": "Close S",
+                "moveImg": "https://www.dustloop.com/wiki/images/c/c4/GGST_Elphelt_Valentine_cS.png"
+            },
+            {
+                "name": "Far S",
+                "moveImg": "https://www.dustloop.com/wiki/images/c/c6/GGST_Elphelt_Valentine_fS.png"
+            },
+            {
+                "name": "5H",
+                "moveImg": "https://www.dustloop.com/wiki/images/7/76/GGST_Elphelt_Valentine_5H.png"
+            },
+            {
+                "name": "5HH",
+                "moveImg": "https://www.dustloop.com/wiki/images/c/ca/GGST_Elphelt_Valentine_5HH.png"
+            },
+            {
+                "name": "5D",
+                "moveImg": "https://www.dustloop.com/wiki/images/7/7f/GGST_Elphelt_Valentine_5D.png"
+            },
+            {
+                "name": "2P",
+                "moveImg": "https://www.dustloop.com/wiki/images/3/35/GGST_Elphelt_Valentine_2P.png"
+            },
+            {
+                "name": "2K",
+                "moveImg": "https://www.dustloop.com/wiki/images/7/7f/GGST_Elphelt_Valentine_2K.png"
+            },
+            {
+                "name": "2S",
+                "moveImg": "https://www.dustloop.com/wiki/images/5/53/GGST_Elphelt_Valentine_2S.png"
+            },
+            {
+                "name": "2H",
+                "moveImg": "https://www.dustloop.com/wiki/images/3/32/GGST_Elphelt_Valentine_2H.png"
+            },
+            {
+                "name": "2D",
+                "moveImg": "https://www.dustloop.com/wiki/images/9/9b/GGST_Elphelt_Valentine_2D.png"
+            },
+            {
+                "name": "J.P",
+                "moveImg": "https://www.dustloop.com/wiki/images/0/0f/GGST_Elphelt_Valentine_jP.png"
+            },
+            {
+                "name": "J.K",
+                "moveImg": "https://www.dustloop.com/wiki/images/e/e0/GGST_Elphelt_Valentine_jK.png"
+            },
+            {
+                "name": "J.S",
+                "moveImg": "https://www.dustloop.com/wiki/images/6/67/GGST_Elphelt_Valentine_jS.png"
+            },
+            {
+                "name": "J.H",
+                "moveImg": "https://www.dustloop.com/wiki/images/2/27/GGST_Elphelt_Valentine_jH.png"
+            },
+            {
+                "name": "J.D",
+                "moveImg": "https://www.dustloop.com/wiki/images/f/f1/GGST_Elphelt_Valentine_jD.png"
+            }
+            
+        ],
+        "commandMoves": [
+            {
+                "name": "6P",
+                "moveImg": "https://www.dustloop.com/wiki/images/f/f6/GGST_Elphelt_Valentine_6P.png"
+            },
+            {
+                "name": "6H",
+                "moveImg": "https://www.dustloop.com/wiki/images/e/ee/GGST_Elphelt_Valentine_6H.png"
+            }
+        ],
+        "specials": [
+            {
+                "name": "Wild Assault",
+                "numName": "236D",
+                "moveImg": "https://www.dustloop.com/wiki/images/4/4d/GGST_Elphelt_Valentine_236D.png"
+            },
+            {  
+                "name": "Miss Charlotte",
+                "numName": "236S/H",
+                "moveImg": "https://www.dustloop.com/wiki/images/6/61/GGST_Elphelt_Valentine_236S.png"
+            },
+            {  
+                "name": "Miss Charlotte (Out of Repair)",
+                "numName": "214K",
+                "moveImg": "https://www.dustloop.com/wiki/images/7/7c/GGST_Elphelt_Valentine_214K.png"
+            },
+            {  
+                "name": "Bomb-Bomb Chocolat",
+                "numName": "214H",
+                "moveImg": "https://www.dustloop.com/wiki/images/9/9d/GGST_Elphelt_Valentine_214H.png"
+            },
+            {  
+                "name": "Here I Go!",
+                "numName": "214S",
+                "moveImg": "https://www.dustloop.com/wiki/images/7/73/GGST_Elphelt_Valentine_214S.png"
+            },
+            {  
+                "name": "Up High!",
+                "numName": "P during Chain Lollipop",
+                "moveImg": "https://www.dustloop.com/wiki/images/d/db/GGST_Elphelt_Valentine_214SP.png"
+            },
+            {  
+                "name": "Down Low!",
+                "numName": "K during Chain Lollipop",
+                "moveImg": "https://www.dustloop.com/wiki/images/1/17/GGST_Elphelt_Valentine_214SK.png"
+            },
+            {  
+                "name": "Nailed it!",
+                "numName": "H during Chain Lollipop",
+                "moveImg": "https://www.dustloop.com/wiki/images/a/a8/GGST_Elphelt_Valentine_214SH.png"
+            }
+        ],
+        "overdrives": [
+            {
+                "name": "Juganto da parfeo",
+                "numName": "632146H",
+                "moveImg": "https://www.dustloop.com/wiki/images/3/34/GGST_Elphelt_Valentine_632146H_2.png"
+            },
+            {
+                "name": "Bomb-Bombnnière",
+                "numName": "236236K",
+                "moveImg": "https://www.dustloop.com/wiki/images/6/69/GGST_Elphelt_Valentine_236236K.png"
             }
         ]
         }
